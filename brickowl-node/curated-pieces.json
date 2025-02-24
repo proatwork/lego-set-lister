@@ -1,0 +1,211 @@
+{
+    "metadata": {
+        "targetAgeRange": "4-7 years",
+        "totalPieces": 554,
+        "lastUpdated": "2025-02-16"
+    },
+    "categories": {
+        "basicBuilding": {
+            "description": "Core building elements for structural creation",
+            "pieces": [
+                {
+                    "pieceTitle": "Plate 1 x 4",
+                    "type": "Plate",
+                    "qty": 50,
+                    "color": "orange",
+                    "reasoning": "Versatile connecting pieces"
+                },
+                {
+                    "pieceTitle": "Plate 1 x 6",
+                    "type": "Plate",
+                    "qty": 30,
+                    "color": "dark blue",
+                    "reasoning": "Extended connections and details"
+                },
+                {
+                    "pieceTitle": "Brick 2 x 4",
+                    "type": "Brick",
+                    "qty": 30,
+                    "color": "medium dark flesh",
+                    "reasoning": "Essential building block for larger structures"
+                },
+                {
+                    "pieceTitle": "Brick 2 x 2",
+                    "type": "Brick",
+                    "qty": 35,
+                    "color": "dark orange",
+                    "reasoning": "Versatile building block for most constructions"
+                },
+                {
+                    "pieceTitle": "Brick 1 x 4",
+                    "type": "Brick",
+                    "qty": 25,
+                    "color": "dark tan",
+                    "reasoning": "Good for walls and details"
+                },
+                {
+                    "pieceTitle": "Plate 2 x 4",
+                    "type": "Plate",
+                    "qty": 40,
+                    "color": "bright light orange",
+                    "reasoning": "Essential for foundations and roofs"
+                },
+                {
+                    "pieceTitle": "Plate 2 x 6",
+                    "type": "Plate",
+                    "qty": 30,
+                    "color": "black",
+                    "reasoning": "Larger foundation pieces"
+                },
+                {
+                    "pieceTitle": "Plate 2 x 8",
+                    "type": "Plate",
+                    "qty": 15,
+                    "color": "white",
+                    "reasoning": "Extended foundations and platforms"
+                },
+                {
+                    "pieceTitle": "Brick 1 x 6",
+                    "type": "Brick",
+                    "qty": 20,
+                    "color": "black",
+                    "reasoning": "Long walls and barriers"
+                }
+            ]
+        },
+        "vehicleComponents": {
+            "description": "Pieces for creating vehicles and moving objects",
+            "pieces": [
+                {
+                    "pieceTitle": "Axle 2 with Grooves",
+                    "type": "Axle",
+                    "qty": 6,
+                    "color": "red",
+                    "reasoning": "Essential for wheel connections"
+                },
+                {
+                    "pieceTitle": "Steering Wheel",
+                    "type": "Steering Wheel",
+                    "qty": 8,
+                    "color": "black",
+                    "reasoning": "Vehicle control elements"
+                },
+                {
+                    "pieceTitle": "Wheel Rim Ø14.6 x 9.9",
+                    "type": "Wheel",
+                    "qty": 16,
+                    "color": "medium stone gray",
+                    "reasoning": "Standard size wheels for vehicles"
+                },
+                {
+                    "pieceTitle": "Tire Ø21 x 9.9",
+                    "type": "Tire",
+                    "qty": 16,
+                    "color": "black",
+                    "reasoning": "Matching tires for standard wheels"
+                },
+                {
+                    "pieceTitle": "Vehicle Base 6 x 10",
+                    "type": "Vehicle Base",
+                    "qty": 3,
+                    "color": "black",
+                    "reasoning": "Foundation for vehicle construction"
+                },
+                {
+                    "pieceTitle": "Mudguard Brick 2 x 4 x 1 with Wheel Arch",
+                    "type": "Brick",
+                    "qty": 12,
+                    "color": "white",
+                    "reasoning": "Vehicle body shaping"
+                }
+            ]
+        },
+        "architecturalElements": {
+            "description": "Pieces for creating buildings and structures",
+            "pieces": [
+                {
+                    "pieceTitle": "Slope 1 x 2",
+                    "type": "Slope",
+                    "qty": 30,
+                    "color": "black",
+                    "reasoning": "Small roof details and angles"
+                },
+                {
+                    "pieceTitle": "Arch 1 x 4",
+                    "type": "Other",
+                    "qty": 8,
+                    "color": "dark stone gray",
+                    "reasoning": "Architectural details"
+                },
+                {
+                    "pieceTitle": "Window Frame 1 x 4 x 3",
+                    "type": "Window",
+                    "qty": 5,
+                    "color": "medium stone gray",
+                    "reasoning": "Essential for building houses"
+                },
+                {
+                    "pieceTitle": "Door Frame 1 x 4 x 6",
+                    "type": "Door",
+                    "qty": 3,
+                    "color": "black",
+                    "reasoning": "Essential for building entrances"
+                },
+                {
+                    "pieceTitle": "Slope 2 x 2",
+                    "type": "Slope",
+                    "qty": 14,
+                    "color": "dark tan",
+                    "reasoning": "Roof construction"
+                },
+                {
+                    "pieceTitle": "Slope 2 x 2 Curved",
+                    "type": "Slope",
+                    "qty": 16,
+                    "color": "dark stone gray",
+                    "reasoning": "Curved roof elements"
+                }
+            ]
+        },
+        "supplementaryPieces": {
+            "description": "Decorative and functional elements",
+            "pieces": [
+                {
+                    "pieceTitle": "Plate 2 x 2",
+                    "type": "Plate",
+                    "qty": 30,
+                    "color": "red",
+                    "reasoning": "Small detail work"
+                },
+                {
+                    "pieceTitle": "Tile 1 x 2 with Groove",
+                    "type": "Tile",
+                    "qty": 40,
+                    "color": "medium stone gray",
+                    "reasoning": "Decorative surfaces"
+                },
+                {
+                    "pieceTitle": "Tile 2 x 4",
+                    "type": "Tile",
+                    "qty": 20,
+                    "color": "dark stone gray",
+                    "reasoning": "Smooth surfaces and decoration"
+                },
+                {
+                    "pieceTitle": "Plate 1 x 2",
+                    "type": "Plate",
+                    "qty": 40,
+                    "color": "bright light orange",
+                    "reasoning": "Detail work and connections"
+                },
+                {
+                    "pieceTitle": "Bracket 1 x 2 - 2 x 2",
+                    "type": "Bracket",
+                    "qty": 12,
+                    "color": "black",
+                    "reasoning": "Angular connections"
+                }
+            ]
+        }
+    }
+}

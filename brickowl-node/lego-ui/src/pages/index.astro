@@ -1,0 +1,13 @@
+---
+import LegoPieceCategory from "../components/LegoPieceCategory.astro";
+import { allParts } from "../data/allPartsFinal-bytype";
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout>
+	{
+		Object.entries(allParts).map(([type, parts]) => (
+			<LegoPieceCategory type={type} parts={parts} />
+		))
+	}
+</Layout>

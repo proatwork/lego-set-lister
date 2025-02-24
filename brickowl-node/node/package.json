@@ -1,0 +1,40 @@
+{
+  "name": "myvitenodeapp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A Vite + Node.js project",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:streampipenet"
+  },
+  "license": "UNLICENSED",
+  "author": "Your Name <>",
+  "type": "module",
+  "scripts": {
+    "app": "node dist/app.js",
+    "build": "tsc && vite build",
+    "clean:dist": "rm -rf ./dist",
+    "pm2": "pm2 start ecosystem.config.cjs",
+    "start": "pnpm clean:dist && pnpm build && pnpm pm2 && pm2 log myapp",
+    "tscWatch": "tsc --watch --noEmit",
+    "watch": "NODE_OPTIONS=\"--inspect=9229\" vite-node --watch src/app.ts"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "@liuli-util/vite-plugin-node": "^0.7.0",
+    "@types/crypto-js": "^4.2.2",
+    "@types/express": "^4.17.21",
+    "@types/node": "^18.18.13",
+    "@typescript-eslint/eslint-plugin": "^6.13.2",
+    "@typescript-eslint/parser": "^6.13.2",
+    "eslint": "^8.55.0",
+    "eslint-config-typescript": "^3.0.0",
+    "typescript": "^5.2.2",
+    "vite": "^4",
+    "vite-node": "^1.0.4"
+  }
+}

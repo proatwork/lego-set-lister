@@ -1,0 +1,31 @@
+---
+import type { LegoPart } from "../../types";
+
+const { type, parts } = Astro.props;
+---
+
+<div class="bg-white rounded-lg shadow p-6">
+	<h2 class="text-2xl font-bold text-gray-800 mb-4">
+		{parts.reduce((acc: any, part: any) => acc + part.qty, 0)}
+		{type}(s)
+	</h2>
+	<div class="grid grid-cols-6 gap-1">
+		{
+			parts.map((part: LegoPart) => (
+				<div class="bg-white rounded-lg shadow p-6 text-black">
+					<span class="mb-4">
+						<span class="text-red-500 font-bold">{part.qty}</span> x
+					</span>
+					<img
+						src={part.img}
+						alt={part.pieceTitle}
+						class="w-12 h-12 rounded-lg mb-4"
+					/>
+					<h2 class="text-sm font-bold text-gray-800">
+						{part.pieceTitle}
+					</h2>
+				</div>
+			))
+		}
+	</div>
+</div>

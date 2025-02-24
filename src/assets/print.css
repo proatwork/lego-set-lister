@@ -1,0 +1,14 @@
+@media print {
+
+    /* All your print styles go here */
+
+    .v-card {
+        break-inside: avoid;
+    }
+
+    header.v-toolbar {
+        position: relative !important;
+        top: 0;
+        break-inside: auto
+    }
+}

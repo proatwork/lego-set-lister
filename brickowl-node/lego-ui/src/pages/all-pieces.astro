@@ -1,0 +1,77 @@
+---
+import { allParts } from "../data/allPartsFinal-bytype";
+import Layout from "../layouts/Layout.astro";
+import type { AllPartsPiece, AllPartsType } from "../types/all-parts";
+
+// Calculate total pieces
+const totalPieces = Object.values(allParts).reduce(
+    (sum, pieces) =>
+        sum + pieces.reduce((typeSum, piece) => typeSum + piece.qty, 0),
+    0,
+);
+
+// Get all unique types
+const types = Object.keys(allParts);
+---
+
+<Layout title="All LEGO Pieces">
+    <main class="container mx-auto px-4 py-8">
+        <!-- Header Section -->
+        <div class="bg-white rounded-lg shadow-md p-6 mb-8">
+            <h1 class="text-3xl font-bold mb-4">Complete LEGO Collection</h1>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <div class="bg-blue-50 p-4 rounded-lg">
+                    <h2 class="text-lg font-semibold text-blue-800">
+                        Total Types
+                    </h2>
+                    <p class="text-2xl font-bold text-blue-900">
+                        {types.length} categories
+                    </p>
+                </div>
+                <div class="bg-green-50 p-4 rounded-lg">
+                    <h2 class="text-lg font-semibold text-green-800">
+                        Total Pieces
+                    </h2>
+                    <p class="text-2xl font-bold text-green-900">
+                        {totalPieces} pieces
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Type Categories -->
+        {
+            types.map((type: string) => (
+                <div class="bg-white rounded-lg shadow-md p-6 mb-8">
+                    <h2 class="text-2xl font-bold mb-6">{type}</h2>
+                    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+                        {(allParts as AllPartsType)[type].map(
+                            (piece: AllPartsPiece) => (
+                                <div class="bg-gray-50 rounded-lg p-4 flex flex-col">
+                                    <img
+                                        src={piece.img}
+                                        alt={piece.pieceTitle}
+                                        width="200"
+                                        class="rounded-lg shadow-sm mb-4 mx-auto"
+                                    />
+                                    <h3 class="font-medium text-gray-900 mb-2">
+                                        {piece.pieceTitle}
+                                    </h3>
+                                    <p class="text-gray-600 mt-auto">
+                                        Quantity: {piece.qty}
+                                    </p>
+                                </div>
+                            ),
+                        )}
+                    </div>
+                </div>
+            ))
+        }
+    </main>
+</Layout>
+
+<style>
+    .container {
+        max-width: 1400px;
+    }
+</style>

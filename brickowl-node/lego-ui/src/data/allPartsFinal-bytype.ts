@@ -1,0 +1,3213 @@
+export const allParts = {
+  "Minifigure": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dirt-bike-rider-female-60387-minifigure-1474277.jpg",
+      "pieceTitle": "Dirt Bike Rider, Female Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dirt-bike-rider-male-60387-minifigure-1512737.jpg",
+      "pieceTitle": "Dirt Bike Rider, Male Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-burger-chef-minifigure-1495519.jpg",
+      "pieceTitle": "Burger Chef Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-man-with-light-blue-jacket-minifigure-1495505.jpg",
+      "pieceTitle": "Man with Light Jacket Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-car-wash-operator-minifigure-1479581.jpg",
+      "pieceTitle": "Car Wash Operator Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-woman-pineapples-top-minifigure-1505539.jpg",
+      "pieceTitle": "Woman - Pineapples Top Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-racer-with-yellow-top-minifigure-1373281.jpg",
+      "pieceTitle": "Racer with Top Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-female-ambulance-driver-minifigure-1495207.jpg",
+      "pieceTitle": "Female Ambulance Driver Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-male-snowboarder-minifigure-1505499.jpg",
+      "pieceTitle": "Male Snowboarder Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-garbage-employee-minifigure-822761.jpg",
+      "pieceTitle": "Garbage Employee Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-garbage-truck-driver-minifigure-1160163.jpg",
+      "pieceTitle": "Garbage Truck Driver Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-female-race-driver-minifigure-1495431.jpg",
+      "pieceTitle": "Female Race Driver Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-race-driver-black-racing-suit-minifigure-1495433.jpg",
+      "pieceTitle": "Race Driver - Racing Suit Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-baby-with-dark-turquoise-jumper-minifigure-1197393.jpg",
+      "pieceTitle": "Baby with Jumper Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-camper-van-owner-minifigure-1053927.jpg",
+      "pieceTitle": "Camper Van Owner Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-woman-from-camper-van-with-baby-carrier-minifigure-1055255.jpg",
+      "pieceTitle": "Woman from Camper Van with Baby Carrier Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-minifigure-head-3626-88475-1286429.jpg",
+      "pieceTitle": "Minifigure Head",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-jungle-explorer-with-fedora-hat-minifigure-1540127.jpg",
+      "pieceTitle": "Jungle Explorer with Fedora Hat Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-female-land-rover-driver-minifigure-1418695.jpg",
+      "pieceTitle": "Female Land Rover Driver Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-police-dog-trainer-minifigure-1361425.jpg",
+      "pieceTitle": "Police Dog Trainer Minifigure",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-police-officer-60369-minifigure-1693977.jpg",
+      "pieceTitle": "Police Officer Minifigure",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-monster-truck-driver-with-black-coiled-hair-minifigure-1494919.jpg",
+      "pieceTitle": "Monster Truck Driver with Coiled Hair Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-crook-minifigure-54815-1489409.jpg",
+      "pieceTitle": "Crook Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-police-officer-with-white-helmet-minifigure-605203-730007.jpg",
+      "pieceTitle": "Police Officer with Helmet Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-gardener-with-orange-trousers-minifigure-1693863.jpg",
+      "pieceTitle": "Gardener with Trousers Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-race-car-driver-with-white-helmet-minifigure-1218519.jpg",
+      "pieceTitle": "Race Car Driver with Helmet Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-race-car-mechanic-minifigure-1218521.jpg",
+      "pieceTitle": "Race Car Mechanic Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-refuse-collector-female-60386-minifigure-1502875.jpg",
+      "pieceTitle": "Refuse Collector, Female Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-refuse-collector-male-60386-minifigure-1358327.jpg",
+      "pieceTitle": "Refuse Collector, Male Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-woman-coiled-parted-hair-minifigure-1502561.jpg",
+      "pieceTitle": "Woman Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-space-construction-minifigure-1521283.jpg",
+      "pieceTitle": "Space Construction Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-orc-warrior-minifigure-1495557.jpg",
+      "pieceTitle": "Orc Warrior Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-red-square-minifigure-head-with-magma-cube-decoration-29923-106304-1652165.jpg",
+      "pieceTitle": "Square Minifigure Head with Magma Cube Decoration",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-sports-car-driver-with-tan-ponytail-minifigure-1680291.jpg",
+      "pieceTitle": "Sports Car Driver with Ponytail Minifigure",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-tow-truck-mechanic-minifigure-1535305.jpg",
+      "pieceTitle": "Tow Truck Mechanic Minifigure",
+      "qty": 1
+    }
+  ],
+  "Axle": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-axle-2-with-pin-without-friction-65249-1703187.jpg",
+      "pieceTitle": "Axle 2 with Pin without Friction",
+      "qty": 8
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-azure-brick-1-x-2-with-axle-hole-opening-and-bottom-tube-31493-32064-1716679.jpg",
+      "pieceTitle": "Brick 1 x 2 with Axle Hole",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-brick-2-x-6-x-1-3-with-axle-bricks-with-reinforced-ends-65635-921089.jpg",
+      "pieceTitle": "Brick 2 x 6 x 1.3 with Axle Bricks with Reinforced Ends",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-orange-wheel-rim-14-6-x-6-with-spokes-and-stub-axles-50862-1776063.jpg",
+      "pieceTitle": "Wheel Rim Ø14.6 x 6 with Spokes and Stub Axles",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-dark-flesh-plate-2-x-2-round-with-axle-hole-with-axle-hole-4032-914297.jpg",
+      "pieceTitle": "Plate 2 x 2 Round with Axle Hole",
+      "qty": 8
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-axle-10-3737-1558229.jpg",
+      "pieceTitle": "Axle 10",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-axle-2-with-grooves-32062-1625751.jpg",
+      "pieceTitle": "Axle 2 with Grooves",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-yellow-axle-3-4519-32240-1579029.jpg",
+      "pieceTitle": "Axle 3",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-axle-4-with-end-stop-87083-1656351.jpg",
+      "pieceTitle": "Axle 4 with End Stop",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-brick-1-x-1-with-axle-hole-73230-1703247.jpg",
+      "pieceTitle": "Brick 1 x 1 with Axle Hole",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-brick-2-x-2-with-pin-and-axlehole-6232-42929-1607801.jpg",
+      "pieceTitle": "Brick 2 x 2 with Pin and Axlehole",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-flexible-rubber-axle-connector-45590-1599549.jpg",
+      "pieceTitle": "Flexible Rubber Axle Connector",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-tan-pin-with-axle-connector-3749-6562-1764239.jpg",
+      "pieceTitle": "Pin with Axle Connector",
+      "qty": 7
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-axle-5-5-double-with-stop-32209-59426-1624577.jpg",
+      "pieceTitle": "Axle 5.5 Double with Stop",
+      "qty": 5
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-axle-connector-smooth-with-x-hole-59443-1676275.jpg",
+      "pieceTitle": "Axle Connector",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-tan-axle-3-with-stud-6587-13670-1610087.jpg",
+      "pieceTitle": "Axle 3 with Stud",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-brick-1-x-2-x-2-with-inside-axle-holder-3245-1603981.jpg",
+      "pieceTitle": "Brick 1 x 2 x 2 with Inside Axle Holder",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-brick-2-x-4-x-1-3-with-axle-bricks-67446-1765333.jpg",
+      "pieceTitle": "Brick 2 x 4 x 1.3 with Axle Bricks",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-axle-6-3706-33323-1589085.jpg",
+      "pieceTitle": "Axle 6",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-blue-axle-to-pin-connector-with-friction-43093-1756899.jpg",
+      "pieceTitle": "Axle to Pin Connector with Friction",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-axle-pin-3-with-friction-11214-1679533.jpg",
+      "pieceTitle": "Axle Pin 3 with Friction",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-brick-2-x-2-with-slots-and-axlehole-39683-90258-1653811.jpg",
+      "pieceTitle": "Brick 2 x 2 with Slots and Axlehole",
+      "qty": 7
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-hinge-brick-2-x-2-locking-with-1-finger-vertical-with-axle-hole-30389-49714-1619107.jpg",
+      "pieceTitle": "Hinge Brick 2 x 2 Locking with 1 Finger Vertical with Axle Hole",
+      "qty": 1
+    }
+  ],
+  "Bar": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-bar-1-x-4-21462-30374-1620899.jpg",
+      "pieceTitle": "Bar 1 x 4",
+      "qty": 9
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-bull-bars-37494-1623877.jpg",
+      "pieceTitle": "Bull Bars",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-yellow-plate-1-x-2-with-side-bar-handle-48336-1570575.jpg",
+      "pieceTitle": "Plate 1 x 2 with Side Bar Handle",
+      "qty": 15
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-tile-1-x-1-round-with-hollow-bar-20482-31561-1784999.jpg",
+      "pieceTitle": "Tile 1 x 1 Round with Hollow Bar",
+      "qty": 5
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-bar-2-with-stop-ring-78258-1714157.jpg",
+      "pieceTitle": "Bar 2 with Stop Ring",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-technic-cylinder-with-center-bar-41531-77086-1776055.jpg",
+      "pieceTitle": "Technic Cylinder with Center Bar",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-yellow-bar-1-x-8-x-2-2486-1561169.jpg",
+      "pieceTitle": "Bar 1 x 8 x 2",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-bar-1-with-angled-stud-65578-1718139.jpg",
+      "pieceTitle": "Bar 1 with Angled Stud",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-orange-bar-1-with-light-cover-29380-58176-1651093.jpg",
+      "pieceTitle": "Bar 1 with Light Cover",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-bar-1-with-plate-1-x-1-round-32828-1699979.jpg",
+      "pieceTitle": "Bar 1 with Plate 1 x 1 Round",
+      "qty": 7
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-bar-6-with-thick-stop-28921-63965-1762045.jpg",
+      "pieceTitle": "Bar 6 with Thick Stop",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-bar-holder-with-handle-23443-49755-1705073.jpg",
+      "pieceTitle": "Bar Holder with Handle",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-bar-1-x-6-with-closed-studs-1764-6140-1279799.jpg",
+      "pieceTitle": "Bar 1 x 6 with Closed Studs",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-bar-1-x-4-x-2-6187-1804033.jpg",
+      "pieceTitle": "Bar 1 x 4 x 2",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-bar-3-x-6-with-four-studs-23444-29165-1705149.jpg",
+      "pieceTitle": "Bar 3 x 6 with Four Studs",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-bar-1-x-4-x-1-6-35654-77083-1628771.jpg",
+      "pieceTitle": "Bar 1 x 4 x 1.6",
+      "qty": 5
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-blue-dog-harness-with-bar-handle-70922-1710821.jpg",
+      "pieceTitle": "Dog Harness with Bar Handle",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-yellow-bar-7-x-3-with-double-clips-5630-6020-1285273.jpg",
+      "pieceTitle": "Bar 7 x 3 with Double Clips",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-pearl-dark-gray-door-1-x-4-x-6-with-bars-60621-1649353.jpg",
+      "pieceTitle": "Door 1 x 4 x 6 with Bars",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-flat-silver-wrench-with-pry-bar-4006-88631-1035229.jpg",
+      "pieceTitle": "Flat Silver Wrench with Pry Bar",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-half-pin-with-bar-2l-42456-61184-1761139.jpg",
+      "pieceTitle": "Half Pin with Bar 2L",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-plate-1-x-2-with-end-bar-handle-60478-1650663.jpg",
+      "pieceTitle": "Plate 1 x 2 with End Bar Handle",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-wrench-with-pry-bar-4006-88631-1593281.jpg",
+      "pieceTitle": "Wrench with Pry Bar",
+      "qty": 1
+    }
+  ],
+  "Beam": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-beam-3-x-5-bent-90-degrees-3-and-5-holes-32526-43886-1630313.jpg",
+      "pieceTitle": "Beam 3 x 5 Bent 90 degrees, 3 and 5 Holes",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-beam-1-18654-1629217.jpg",
+      "pieceTitle": "Beam 1",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tile-1-x-2-with-perpendicular-beam-2-32530-1630257.jpg",
+      "pieceTitle": "Tile 1 x 2 with Perpendicular Beam 2",
+      "qty": 7
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-beam-3-x-3-t-shaped-60484-1761311.jpg",
+      "pieceTitle": "Beam 3 x 3 T-Shaped",
+      "qty": 5
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-connector-beam-1-x-3-x-3-39793-1609597.jpg",
+      "pieceTitle": "Connector Beam 1 x 3 x 3",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-beam-2-43857-1640939.jpg",
+      "pieceTitle": "Beam 2",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-beam-3-32523-41482-914817.jpg",
+      "pieceTitle": "Beam 3",
+      "qty": 2
+    }
+  ],
+  "Other": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-blue-bicycle-frame-36934-1049675.jpg",
+      "pieceTitle": "Bicycle Frame",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-handheld-camera-with-central-viewfinder-4724-30089-1184105.jpg",
+      "pieceTitle": "Handheld Camera with Central Viewfinder",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-dark-flesh-hare-patronus-with-eyes-67900-69599-1613263.jpg",
+      "pieceTitle": "Hare Patronus with Eyes",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-blue-helmet-with-open-visor-and-brim-35458-739863.jpg",
+      "pieceTitle": "Helmet with Open Visor and Brim",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-blue-scorpion-28839-30169-778155.jpg",
+      "pieceTitle": "Scorpion",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-angle-connector-1-32013-42127-1751689.jpg",
+      "pieceTitle": "Angle Connector #1",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-reddish-brown-broom-3836-1588585.jpg",
+      "pieceTitle": "Broom",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-azure-brush-24-x-18-2-2498-99417-1687501.jpg",
+      "pieceTitle": "Brush Ø24 x 18.2",
+      "qty": 5
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-car-base-4-x-12-x-0-667-52036-1273639.jpg",
+      "pieceTitle": "Car Base 4 x 12 x 0.667",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-ice-cream-scoops-1887-6254-1183685.jpg",
+      "pieceTitle": "Ice Cream Scoops",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-arch-1-x-4-3659-1590151.jpg",
+      "pieceTitle": "Arch 1 x 4",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-string-with-end-studs-1-x-11-14226-111933-922159.jpg",
+      "pieceTitle": "String with End Studs 1 x 11",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-antenna-1-x-4-with-flat-top-3957-28658-1285131.jpg",
+      "pieceTitle": "Antenna 1 x 4 with Flat Top",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-arch-1-x-5-x-4-inverted-4294-30099-1804337.jpg",
+      "pieceTitle": "Arch 1 x 5 x 4 Inverted",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-coral-snowboard-short-18746-1720993.jpg",
+      "pieceTitle": "Snowboard",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-sports-helmet-with-vent-holes-46303-1639979.jpg",
+      "pieceTitle": "Sports Helmet with Vent Holes",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-yellow-syringe-53020-87989-1575413.jpg",
+      "pieceTitle": "Syringe",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-mechanical-arm-with-thick-support-49753-76116-1635803.jpg",
+      "pieceTitle": "Mechanical Arm with Thick Support",
+      "qty": 8
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-pneumatic-tee-with-reinforced-connection-4697-1603931.jpg",
+      "pieceTitle": "Pneumatic Tee with Reinforced Connection",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-propellor-4-blade-5-diameter-with-closed-connector-67737-1616673.jpg",
+      "pieceTitle": "Propellor 4 Blade 5 Diameter with Closed Connector",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-yellow-banana-33085-1588333.jpg",
+      "pieceTitle": "Banana",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-orange-carrot-20086-33172-1629243.jpg",
+      "pieceTitle": "Carrot",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-lime-cherries-18660-22667-1183591.jpg",
+      "pieceTitle": "Cherries",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-orange-cone-1-x-1-with-top-groove-28701-59900-1648313.jpg",
+      "pieceTitle": "Cone 1 x 1 with Top Groove",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-flat-silver-fish-64648-1715381.jpg",
+      "pieceTitle": "Flat Silver Fish",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-roller-skate-11253-18747-914233.jpg",
+      "pieceTitle": "Roller Skate",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-orange-skip-8-x-12-x-5-18926-19001-1667609.jpg",
+      "pieceTitle": "Skip 8 x 12 x 5",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-cone-1-5-x-1-5-wide-33492-1688901.jpg",
+      "pieceTitle": "Cone 1.5 x 1.5 Wide",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-cupcake-liner-with-flat-top-79743-1718795.jpg",
+      "pieceTitle": "Cupcake Liner with Flat Top",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-orange-croissant-with-flat-ends-3346-67338-1718483.jpg",
+      "pieceTitle": "Croissant with Flat Ends",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-light-aqua-feeding-bottle-small-1735-18855-1697291.jpg",
+      "pieceTitle": "Feeding Bottle",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-mudgard-bonnet-3-x-4-x-1-3-curved-98835-1660765.jpg",
+      "pieceTitle": "Mudgard Bonnet 3 x 4 x 1.3 Curved",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-reddish-brown-arch-1-x-3-x-2-88292-1700099.jpg",
+      "pieceTitle": "Arch 1 x 3 x 2",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-reddish-orange-red-panda-108567-1728371.jpg",
+      "pieceTitle": "Red Panda",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-walkie-talkie-detailed-grille-19220-28924-1784073.jpg",
+      "pieceTitle": "Walkie-Talkie",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-bowl-34172-75184-1695679.jpg",
+      "pieceTitle": "Bowl",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-car-engine-2-x-2-with-air-scoop-50943-1635901.jpg",
+      "pieceTitle": "Car Engine 2 x 2 with Air Scoop",
+      "qty": 5
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-brown-coiled-hair-21778-1179771.jpg",
+      "pieceTitle": "Coiled Hair",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-dark-flesh-dog-alsatian-with-black-eyes-and-forehead-92586-93239-902105.jpg",
+      "pieceTitle": "Dog - Alsatian with Black Eyes and Forehead",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-dark-flesh-dog-small-101352-1718313.jpg",
+      "pieceTitle": "Dog - Small",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-dog-bone-short-77100-93160-1658029.jpg",
+      "pieceTitle": "Dog Bone",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-gear-rack-4-3743-4296-1777901.jpg",
+      "pieceTitle": "Gear Rack 4",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-lightsaber-hilt-straight-23306-64567-1668641.jpg",
+      "pieceTitle": "Lightsaber Hilt",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-space-stand-2-x-2-x-2-3940-19798-1593233.jpg",
+      "pieceTitle": "Space Stand 2 x 2 x 2",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-visor-standard-2447-35334-1567157.jpg",
+      "pieceTitle": "Visor - Standard",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-flat-silver-car-engine-2-x-2-with-air-scoop-50943-1253089.jpg",
+      "pieceTitle": "Flat Silver Car Engine 2 x 2 with Air Scoop",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-crash-helmet-2446-30124-915973.jpg",
+      "pieceTitle": "Crash Helmet",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-crowbar-92585-1604095.jpg",
+      "pieceTitle": "Crowbar",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-handcuffs-short-61482-97927-1649411.jpg",
+      "pieceTitle": "Handcuffs",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-blue-helicopter-body-19000-1587733.jpg",
+      "pieceTitle": "Helicopter Body",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-helicopter-landing-skids-12-x-6-30248-40939-1621641.jpg",
+      "pieceTitle": "Helicopter Landing Skids 12 x 6",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-loudhailer-4349-1600845.jpg",
+      "pieceTitle": "Loudhailer",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-skeleton-leg-short-6266-31733-1608593.jpg",
+      "pieceTitle": "Skeleton Leg",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-bright-green-carrot-leaves-33183-1185291.jpg",
+      "pieceTitle": "Carrot Leaves",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-orange-squirrel-with-brown-nose-98480-1669989.jpg",
+      "pieceTitle": "Squirrel with Brown Nose",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-lime-watering-can-79736-1658341.jpg",
+      "pieceTitle": "Watering Can",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tap-1-x-1-with-hole-in-end-4599-912843.jpg",
+      "pieceTitle": "Tap 1 x 1 with Hole in End",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-turquoise-arch-1-x-6-raised-bow-92950-1286213.jpg",
+      "pieceTitle": "Arch 1 x 6 Raised Bow",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-base-with-black-lever-4592-73587-1665261.jpg",
+      "pieceTitle": "Base with Black Lever",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-reddish-brown-plant-stalk-with-3-stems-68211-1559033.jpg",
+      "pieceTitle": "Plant Stalk with 3 Stems",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-standing-cat-with-short-tail-up-with-black-nose-100552-110900-1658307.jpg",
+      "pieceTitle": "White Standing Cat with Short Tail Up with Nose",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-flat-silver-unicorn-horn-with-spiral-34078-89522-1038557.jpg",
+      "pieceTitle": "Flat Silver Unicorn Horn with Spiral",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-flesh-arch-1-x-3-4490-1646747.jpg",
+      "pieceTitle": "Arch 1 x 3",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-lavender-pixelated-minecraft-bow-with-arrow-18792-1712697.jpg",
+      "pieceTitle": "Pixelated Minecraft Bow with Arrow",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-azure-pixelated-pickaxe-18789-1693189.jpg",
+      "pieceTitle": "Pixelated Pickaxe",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-mudgard-bonnet-6-x-6-x-2-3-6-x-4-80481-1711303.jpg",
+      "pieceTitle": "Mudgard Bonnet 6 x 6 x 2.3",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-mudgard-bonnet-6-x-6-x-2-3-6-x-4-with-white-and-yellow-headlights-80481-107551-1725113.jpg",
+      "pieceTitle": "Mudgard Bonnet 6 x 6 x 2.3 with White and Yellow Headlights",
+      "qty": 1
+    }
+  ],
+  "Bracket": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-bracket-1-x-2-1-x-4-with-rounded-corners-2436-10201-1253071.jpg",
+      "pieceTitle": "Bracket 1 x 2 - 1 x 4 with Rounded Corners",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-orange-bracket-1-x-2-with-2-x-2-21712-44728-1758389.jpg",
+      "pieceTitle": "Bracket 1 x 2 with 2 x 2",
+      "qty": 22
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-bracket-2-x-5-x-1-3-with-holes-11215-79180-1612217.jpg",
+      "pieceTitle": "Bracket 2 x 5 x 1.3 with Holes",
+      "qty": 17
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-blue-bracket-2-x-5-x-2-3-and-inside-stud-holder-28964-76766-1654017.jpg",
+      "pieceTitle": "Bracket 2 x 5 x 2.3 and Inside Stud Holder",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-bracket-1-x-2-2-x-2-up-99207-1660719.jpg",
+      "pieceTitle": "Bracket 1 x 2 - 2 x 2 Up",
+      "qty": 14
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-bracket-2-x-3-with-plate-and-step-with-bottom-stud-holder-73562-1699093.jpg",
+      "pieceTitle": "Bracket 2 x 3 with Plate and Step with Bottom Stud Holder",
+      "qty": 8
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-tan-bracket-1-x-2-1-x-2-99781-1780989.jpg",
+      "pieceTitle": "Bracket 1 x 2 - 1 x 2",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-bracket-1-x-2-1-x-4-with-rounded-corners-and-square-corners-28802-1486415.jpg",
+      "pieceTitle": "Bracket 1 x 2 - 1 x 4 with Rounded Corners and Square Corners",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-bracket-1-x-2-with-1-x-2-up-99780-1644997.jpg",
+      "pieceTitle": "Bracket 1 x 2 with 1 x 2 Up",
+      "qty": 14
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-bracket-1-x-2-with-vertical-tile-2-x-2-41682-1557329.jpg",
+      "pieceTitle": "Bracket 1 x 2 with Vertical Tile 2 x 2",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-pink-bracket-2-x-4-with-1-x-4-downwards-plate-5175-1634873.jpg",
+      "pieceTitle": "Bracket 2 x 4 with 1 x 4 Downwards Plate",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-yellow-bracket-1-x-2-2-x-4-21731-93274-1661659.jpg",
+      "pieceTitle": "Bracket 1 x 2 - 2 x 4",
+      "qty": 9
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-bracket-1-x-1-with-1-x-2-plate-up-73825-1564893.jpg",
+      "pieceTitle": "Bracket 1 x 1 with 1 x 2 Plate Up",
+      "qty": 7
+    }
+  ],
+  "Brick": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-brick-1-x-1-round-with-open-stud-3062-35390-1660553.jpg",
+      "pieceTitle": "Brick 1 x 1 Round with Open Stud",
+      "qty": 17
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-orange-brick-1-x-2-with-bottom-tube-3004-93792-1764767.jpg",
+      "pieceTitle": "Brick 1 x 2 with Bottom Tube",
+      "qty": 40
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-brick-1-x-2-with-studs-on-one-side-11211-1671125.jpg",
+      "pieceTitle": "Brick 1 x 2 with Studs on One Side",
+      "qty": 13
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-tan-brick-1-x-4-3010-6146-1767251.jpg",
+      "pieceTitle": "Brick 1 x 4",
+      "qty": 28
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-brick-1-x-4-with-4-studs-on-one-side-30414-1620411.jpg",
+      "pieceTitle": "Brick 1 x 4 with 4 Studs on One Side",
+      "qty": 12
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-brick-1-x-4-with-groove-2653-1568985.jpg",
+      "pieceTitle": "Brick 1 x 4 with Groove",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-orange-brick-2-x-2-3003-6223-1764889.jpg",
+      "pieceTitle": "Brick 2 x 2",
+      "qty": 36
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-orange-brick-2-x-2-corner-2357-1752499.jpg",
+      "pieceTitle": "Brick 2 x 2 Corner",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-brick-2-x-2-round-with-grille-92947-1764363.jpg",
+      "pieceTitle": "Brick 2 x 2 Round with Grille",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-mudguard-brick-2-x-4-x-1-with-wheel-arch-28579-98282-1660973.jpg",
+      "pieceTitle": "Mudguard Brick 2 x 4 x 1 with Wheel Arch",
+      "qty": 26
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-brick-1-x-1-x-3-14716-1624441.jpg",
+      "pieceTitle": "Brick 1 x 1 x 3",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-brick-1-x-6-3009-30611-1576965.jpg",
+      "pieceTitle": "Brick 1 x 6",
+      "qty": 5
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-brick-2-x-2-round-corner-with-stud-notch-and-hollow-underside-3063-45417-413257.jpg",
+      "pieceTitle": "Brick 2 x 2 Round Corner with Stud Notch and Hollow Underside",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-dark-flesh-brick-2-x-2-round-corner-with-stud-notch-and-reinforced-underside-85080-1614937.jpg",
+      "pieceTitle": "Brick 2 x 2 Round Corner with Stud Notch and Reinforced Underside",
+      "qty": 8
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-dark-flesh-brick-2-x-4-3001-72841-1763659.jpg",
+      "pieceTitle": "Brick 2 x 4",
+      "qty": 31
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-dark-flesh-brick-3-x-3-x-2-round-quarter-88293-1663127.jpg",
+      "pieceTitle": "Brick 3 x 3 x 2 Round Quarter",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-mudguard-brick-2-x-4-x-2-with-wheel-arch-3387-1691075.jpg",
+      "pieceTitle": "Mudguard Brick 2 x 4 x 2 with Wheel Arch",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-slope-brick-2-x-2-x-1-3-curved-corner-67810-1613335.jpg",
+      "pieceTitle": "Slope Brick 2 x 2 x 1.3 Curved Corner",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-azure-brick-1-x-1-3005-30071-1577095.jpg",
+      "pieceTitle": "Brick 1 x 1",
+      "qty": 43
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-brick-1-x-1-with-hole-6541-1676263.jpg",
+      "pieceTitle": "Brick 1 x 1 with Hole",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-reddish-brown-brick-1-x-2-log-30136-1614077.jpg",
+      "pieceTitle": "Brick 1 x 2 Log",
+      "qty": 14
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-brick-1-x-2-with-grille-2877-1287341.jpg",
+      "pieceTitle": "Brick 1 x 2 with Grille",
+      "qty": 9
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-brick-1-x-2-with-pin-with-bottom-stud-holder-44865-1609437.jpg",
+      "pieceTitle": "Brick 1 x 2 with Pin with Bottom Stud Holder",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-brick-1-x-2-with-vertical-clip-with-open-o-clip-42925-95820-918077.jpg",
+      "pieceTitle": "Brick 1 x 2 with Vertical Clip with Open 'O' Clip",
+      "qty": 10
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-brick-1-x-2-x-5-2454-35274-1566661.jpg",
+      "pieceTitle": "Brick 1 x 2 x 5",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-brick-1-x-4-with-holes-3701-1589271.jpg",
+      "pieceTitle": "Brick 1 x 4 with Holes",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-brick-2-x-2-round-3941-6143-921585.jpg",
+      "pieceTitle": "Brick 2 x 2 Round",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-green-brick-2-x-4-x-0-7-with-front-studs-and-thick-side-arches-14520-52038-1710565.jpg",
+      "pieceTitle": "Brick 2 x 4 x 0.7 with Front Studs and Thick Side Arches",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-brick-1-x-2-x-1-6-with-studs-on-one-side-1939-22885-1642595.jpg",
+      "pieceTitle": "Brick 1 x 2 x 1.6 with Studs on One Side",
+      "qty": 8
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-mudguard-brick-2-x-2-with-wheel-arch-50745-1582201.jpg",
+      "pieceTitle": "Mudguard Brick 2 x 2 with Wheel Arch",
+      "qty": 12
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-slope-brick-2-x-3-with-curved-top-6215-1607877.jpg",
+      "pieceTitle": "Slope Brick 2 x 3 with Curved Top",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-brick-1-x-1-x-0-7-86996-1635159.jpg",
+      "pieceTitle": "Brick 1 x 1 x 0.7",
+      "qty": 5
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-brick-1-x-2-x-3-22886-1700689.jpg",
+      "pieceTitle": "Brick 1 x 2 x 3",
+      "qty": 9
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-brick-2-x-3-3002-1763595.jpg",
+      "pieceTitle": "Brick 2 x 3",
+      "qty": 8
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-brick-1-x-1-with-stud-on-one-side-87087-1656283.jpg",
+      "pieceTitle": "Brick 1 x 1 with Stud on One Side",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-brick-1-x-1-with-two-studs-on-adjacent-sides-26604-1700409.jpg",
+      "pieceTitle": "Brick 1 x 1 with Two Studs on Adjacent Sides",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-azure-brick-1-x-1-x-1-6-with-two-side-studs-32952-1652179.jpg",
+      "pieceTitle": "Brick 1 x 1 x 1.6 with Two Side Studs",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-brick-1-x-2-with-2-holes-32000-1626713.jpg",
+      "pieceTitle": "Brick 1 x 2 with 2 Holes",
+      "qty": 5
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-brick-1-x-2-without-bottom-tube-3065-35743-981187.jpg",
+      "pieceTitle": "Brick 1 x 2 without Bottom Tube",
+      "qty": 9
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-azure-brick-1-x-3-3622-45505-1703701.jpg",
+      "pieceTitle": "Brick 1 x 3",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-orange-brick-1-x-2-x-2-with-recycling-logo-with-inside-stud-holder-3245-43257-781111.jpg",
+      "pieceTitle": "Brick 1 x 2 x 2 with Recycling Logo with Inside Stud Holder",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-hinge-brick-2-x-4-with-1-x-2-finger-18455-49995-1689635.jpg",
+      "pieceTitle": "Hinge Brick 2 x 4 with 1 x 2 Finger",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-brick-1-x-1-with-headlight-4070-30069-911787.jpg",
+      "pieceTitle": "Brick 1 x 1 with Headlight",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-brick-1-x-12-6112-1676415.jpg",
+      "pieceTitle": "Brick 1 x 12",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-tan-brick-2-x-6-2456-44237-1757617.jpg",
+      "pieceTitle": "Brick 2 x 6",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-brick-1-x-2-with-hinge-shaft-flush-shaft-34816-1704527.jpg",
+      "pieceTitle": "Brick 1 x 2 with Hinge Shaft",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-blue-brick-1-x-4-with-slanted-police-logo-1414-3010-1707237.jpg",
+      "pieceTitle": "Brick 1 x 4 with Slanted 'POLICE' Logo",
+      "qty": 8
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-brick-1-x-2-with-hole-and-1-x-2-plate-73109-1617571.jpg",
+      "pieceTitle": "Brick 1 x 2 with Hole and 1 x 2 Plate",
+      "qty": 8
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-dark-flesh-brick-8-x-16-with-1-x-4-sections-for-inter-locking-18922-1704389.jpg",
+      "pieceTitle": "Brick 8 x 16 with 1 x 4 Sections for Inter-locking",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-green-plant-brick-1-x-1-round-with-3-bamboo-leaves-30176-1185089.jpg",
+      "pieceTitle": "Plant Brick 1 x 1 Round with 3 Bamboo Leaves",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-brick-1-x-1-with-vertical-clip-open-o-clip-hollow-stud-60475-65460-911915.jpg",
+      "pieceTitle": "Brick 1 x 1 with Vertical Clip",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-brick-1-x-16-2465-1757537.jpg",
+      "pieceTitle": "Brick 1 x 16",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-tan-brick-1-x-2-with-embossed-bricks-98283-1660957.jpg",
+      "pieceTitle": "Brick 1 x 2 with Embossed Bricks",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-yellow-brick-1-x-2-with-studs-on-opposite-sides-52107-1645447.jpg",
+      "pieceTitle": "Brick 1 x 2 with Studs on Opposite Sides",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-turquoise-brick-1-x-2-x-2-with-inside-stud-holder-3245-1652465.jpg",
+      "pieceTitle": "Brick 1 x 2 x 2 with Inside Stud Holder",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-brick-2-x-2-x-3-30145-1615931.jpg",
+      "pieceTitle": "Brick 2 x 2 x 3",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-brick-2-x-8-3007-93888-1765497.jpg",
+      "pieceTitle": "Brick 2 x 8",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-technic-brick-wing-1-x-6-x-1-67-2744-28670-1291965.jpg",
+      "pieceTitle": "Technic Brick Wing 1 x 6 x 1.67",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-purple-opal-brick-1-x-1-round-with-open-stud-3062-35390-1524531.jpg",
+      "pieceTitle": "Opal Brick 1 x 1 Round with Open Stud",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-brick-1-x-2-rounded-with-open-center-77808-1687967.jpg",
+      "pieceTitle": "Brick 1 x 2 Rounded with Open Center",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-brick-2-x-2-round-with-sloped-sides-98100-1661263.jpg",
+      "pieceTitle": "Brick 2 x 2 Round with Sloped Sides",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-round-brick-elbow-90-degree-bend-25214-1700537.jpg",
+      "pieceTitle": "Round Brick Elbow 90 Degree Bend",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-brick-1-x-2-with-hole-3700-1589385.jpg",
+      "pieceTitle": "Brick 1 x 2 with Hole",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-brick-1-x-4-disk-shooter-projectile-launcher-16968-63783-1749263.jpg",
+      "pieceTitle": "Brick 1 X 4 Disk Shooter Projectile Launcher",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-brick-1-x-8-3008-1577019.jpg",
+      "pieceTitle": "Brick 1 x 8",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-orange-brick-2-x-2-facet-87620-1287735.jpg",
+      "pieceTitle": "Brick 2 x 2 Facet",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-brick-4-x-10-with-wheel-holders-30076-66118-1289009.jpg",
+      "pieceTitle": "Brick 4 x 10 with Wheel Holders",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-hinge-brick-1-x-6-with-fingers-30388-53914-1620533.jpg",
+      "pieceTitle": "Hinge Brick 1 x 6 with Fingers",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-brick-2-x-4-with-cutout-and-wheel-holders-18892-42947-1782315.jpg",
+      "pieceTitle": "Brick 2 x 4 with Cutout and Wheel Holders",
+      "qty": 2
+    }
+  ],
+  "Bushing": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-bushing-6590-42798-1670549.jpg",
+      "pieceTitle": "Bushing",
+      "qty": 13
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-half-bushing-32123-42136-1769155.jpg",
+      "pieceTitle": "Half Bushing",
+      "qty": 8
+    }
+  ],
+  "Flag": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-bright-light-orange-flag-6-x-4-with-2-connectors-2525-53912-1652503.jpg",
+      "pieceTitle": "Flag 6 x 4 with 2 Connectors",
+      "qty": 4
+    }
+  ],
+  "Flower": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-green-flower-stem-with-stalk-and-6-stems-19119-1671295.jpg",
+      "pieceTitle": "Flower Stem with Stalk and 6 Stems",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-bright-green-flower-1-x-1-24866-1708541.jpg",
+      "pieceTitle": "Flower 1 x 1",
+      "qty": 17
+    }
+  ],
+  "Frying Pan": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-flat-silver-frying-pan-with-short-handle-4528-912697.jpg",
+      "pieceTitle": "Flat Silver Frying Pan with Short Handle",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-frying-pan-with-short-handle-4528-1600175.jpg",
+      "pieceTitle": "Frying Pan with Short Handle",
+      "qty": 1
+    }
+  ],
+  "Hinge": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-hinge-plate-1-x-2-with-vertical-locking-stub-with-bottom-groove-44567-49716-1640443.jpg",
+      "pieceTitle": "Hinge Plate 1 x 2 with Vertical Locking Stub with Bottom Groove",
+      "qty": 8
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-hinge-plate-1-x-4-locking-with-two-stubs-44568-51483-1612327.jpg",
+      "pieceTitle": "Hinge Plate 1 x 4 Locking with Two Stubs",
+      "qty": 7
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-hinge-train-gate-2-x-4-locking-dual-2-stubs-with-rear-reinforcements-44569-52526-1637997.jpg",
+      "pieceTitle": "Hinge Train Gate 2 x 4 Locking Dual 2 Stubs with Rear Reinforcements",
+      "qty": 7
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-stretcher-without-bottom-hinges-93140-1661763.jpg",
+      "pieceTitle": "Stretcher without Bottom Hinges",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-hinge-plate-1-x-4-swivel-assembly-1927-19954-1672613.jpg",
+      "pieceTitle": "Hinge Plate 1 x 4 Swivel Assembly",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-hinge-plate-bottom-2-x-4-with-4-studs-and-2-pin-holes-43056-1714501.jpg",
+      "pieceTitle": "Hinge Plate Bottom 2 x 4 with 4 Studs and 2 Pin Holes",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-hinge-plate-top-2-x-4-with-6-studs-and-2-pin-holes-43045-1712241.jpg",
+      "pieceTitle": "Hinge Plate Top 2 x 4 with 6 Studs and 2 Pin Holes",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-hinge-plate-1-x-2-with-dual-fingers-50340-60471-1650761.jpg",
+      "pieceTitle": "Hinge Plate 1 x 2 with Dual Fingers",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-hinge-1-x-2-base-3937-1593883.jpg",
+      "pieceTitle": "Hinge 1 x 2 Base",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-hinge-2-x-2-top-6134-1802963.jpg",
+      "pieceTitle": "Hinge 2 x 2 Top",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-hinge-plate-1-x-2-with-dual-fingers-with-groove-44302-1640599.jpg",
+      "pieceTitle": "Hinge Plate 1 x 2 with Dual Fingers with Groove",
+      "qty": 10
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-hinge-plate-1-x-2-with-top-finger-30383-53922-1620613.jpg",
+      "pieceTitle": "Hinge Plate 1 x 2 with Top Finger",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-hinge-plate-2-x-2-with-top-finger-53968-92582-1661963.jpg",
+      "pieceTitle": "Hinge Plate 2 x 2 with Top Finger",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-hinge-1-x-2-locking-with-towball-socket-30396-51482-1750409.jpg",
+      "pieceTitle": "Hinge 1 x 2 Locking with Towball Socket",
+      "qty": 1
+    }
+  ],
+  "Ingot": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-orange-ingot-99563-1581881.jpg",
+      "pieceTitle": "Ingot",
+      "qty": 10
+    }
+  ],
+  "Pin": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-pin-with-ball-6628-66906-1674297.jpg",
+      "pieceTitle": "Pin with Ball",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-orange-small-flame-with-pin-37775-1194563.jpg",
+      "pieceTitle": "Small Flame with Pin",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-wheel-rim-30-x-20-with-no-pinholes-with-reinforced-rim-56145-1579333.jpg",
+      "pieceTitle": "Wheel Rim Ø30 x 20 with No Pinholes, with Reinforced Rim",
+      "qty": 12
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-blue-long-pin-with-friction-6558-42924-1610553.jpg",
+      "pieceTitle": "Long Pin with Friction",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-yellow-pin-without-friction-ridges-3673-1688337.jpg",
+      "pieceTitle": "Pin without Friction Ridges",
+      "qty": 12
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-plate-2-x-3-with-rounded-end-and-pin-hole-3176-1585917.jpg",
+      "pieceTitle": "Plate 2 x 3 with Rounded End and Pin Hole",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-plate-2-x-4-with-underside-pin-holes-26599-1689405.jpg",
+      "pieceTitle": "Plate 2 x 4 with Underside Pin Holes",
+      "qty": 5
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-propeller-with-3-blades-and-pin-hole-65768-1688095.jpg",
+      "pieceTitle": "Propeller with 3 Blades and Pin Hole",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-wheel-rim-18-x-14-with-pin-hole-20896-55981-1778717.jpg",
+      "pieceTitle": "Wheel Rim Ø18 x 14 with Pin Hole",
+      "qty": 26
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-exhaust-pipe-with-technic-pin-and-flat-end-14682-65571-1614343.jpg",
+      "pieceTitle": "Exhaust Pipe with Technic Pin and Flat End",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-tile-2-x-2-with-vertical-pin-2460-49153-1562817.jpg",
+      "pieceTitle": "Tile 2 x 2 with Vertical Pin",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-technic-pin-with-short-friction-ridges-2780-61332-1762437.jpg",
+      "pieceTitle": "Technic Pin with Short Friction Ridges",
+      "qty": 15
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-green-pine-tree-small-3-x-3-x-4-2435-1185159.jpg",
+      "pieceTitle": "Pine Tree 3 x 3 x 4",
+      "qty": 5
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-plate-2-x-4-with-pins-30157-40687-1615821.jpg",
+      "pieceTitle": "Plate 2 x 4 with Pins",
+      "qty": 8
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-plate-1-x-2-with-pin-hole-11458-1692439.jpg",
+      "pieceTitle": "Plate 1 x 2 with Pin Hole",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-plate-2-x-2-with-bottom-pin-no-holes-2476-48241-1757507.jpg",
+      "pieceTitle": "Plate 2 x 2 with Bottom Pin",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-pin-joiner-round-with-slot-29219-62462-1650031.jpg",
+      "pieceTitle": "Pin Joiner Round with Slot",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-tan-technic-long-pin-without-friction-32556-39888-1630225.jpg",
+      "pieceTitle": "Technic Long Pin without Friction",
+      "qty": 1
+    }
+  ],
+  "Plate": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-plate-1-x-1-round-6141-30057-1645167.jpg",
+      "pieceTitle": "Plate 1 x 1 Round",
+      "qty": 47
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-plate-1-x-1-round-with-open-stud-28626-85861-1649215.jpg",
+      "pieceTitle": "Plate 1 x 1 Round with Open Stud",
+      "qty": 20
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-plate-1-x-10-4477-1576721.jpg",
+      "pieceTitle": "Plate 1 x 10",
+      "qty": 14
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-bright-light-orange-plate-1-x-2-3023-28653-1766917.jpg",
+      "pieceTitle": "Plate 1 x 2",
+      "qty": 114
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-plate-1-x-2-with-1-stud-with-groove-and-bottom-stud-holder-15573-78823-1576221.jpg",
+      "pieceTitle": "Plate 1 x 2 with 1 Stud",
+      "qty": 41
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-plate-1-x-2-with-horizontal-clip-11476-65458-1612089.jpg",
+      "pieceTitle": "Plate 1 x 2 with Horizontal Clip",
+      "qty": 9
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-plate-1-x-2-with-horizontal-clip-on-end-42923-63868-1649931.jpg",
+      "pieceTitle": "Plate 1 x 2 with Horizontal Clip on End",
+      "qty": 12
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-plate-1-x-2-with-rounded-ends-and-open-studs-35480-1685821.jpg",
+      "pieceTitle": "Plate 1 x 2 with Rounded Ends and Open Studs",
+      "qty": 29
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-plate-1-x-2-with-top-clip-without-gap-44861-1699541.jpg",
+      "pieceTitle": "Plate 1 x 2 with Top Clip without Gap",
+      "qty": 16
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-plate-1-x-3-3623-1590405.jpg",
+      "pieceTitle": "Plate 1 x 3",
+      "qty": 20
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-plate-1-x-3-with-2-studs-34103-1708803.jpg",
+      "pieceTitle": "Plate 1 x 3 with 2 Studs",
+      "qty": 7
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-orange-plate-1-x-4-3710-1588951.jpg",
+      "pieceTitle": "Plate 1 x 4",
+      "qty": 102
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-plate-1-x-4-with-two-studs-with-groove-41740-1712383.jpg",
+      "pieceTitle": "Plate 1 x 4 with Two Studs with Groove",
+      "qty": 28
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-blue-plate-1-x-6-3666-1568981.jpg",
+      "pieceTitle": "Plate 1 x 6",
+      "qty": 65
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-bright-light-orange-plate-1-x-8-3460-1675099.jpg",
+      "pieceTitle": "Plate 1 x 8",
+      "qty": 24
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-plate-2-x-14-91988-1655383.jpg",
+      "pieceTitle": "Plate 2 x 14",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-plate-2-x-2-3022-94148-1579913.jpg",
+      "pieceTitle": "Plate 2 x 2",
+      "qty": 34
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-plate-2-x-2-x-0-7-with-ribs-71752-1644011.jpg",
+      "pieceTitle": "Plate 2 x 2 x 0.7 with Ribs",
+      "qty": 5
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-bright-light-orange-plate-2-x-4-3020-5584-1767131.jpg",
+      "pieceTitle": "Plate 2 x 4",
+      "qty": 48
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-plate-2-x-6-3795-1588815.jpg",
+      "pieceTitle": "Plate 2 x 6",
+      "qty": 51
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-plate-2-x-6-with-rounded-corners-18980-1556107.jpg",
+      "pieceTitle": "Plate 2 x 6 with Rounded Corners",
+      "qty": 8
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-plate-2-x-8-3034-1583049.jpg",
+      "pieceTitle": "Plate 2 x 8",
+      "qty": 16
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-reddish-brown-plate-3-x-3-cross-15397-1693653.jpg",
+      "pieceTitle": "Plate 3 x 3 Cross",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-tan-plate-4-x-12-3029-919181.jpg",
+      "pieceTitle": "Plate 4 x 12",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-plate-4-x-6-3032-1583139.jpg",
+      "pieceTitle": "Plate 4 x 6",
+      "qty": 11
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-plate-6-x-10-3033-1583087.jpg",
+      "pieceTitle": "Plate 6 x 10",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-wedge-plate-1-x-4-a-frame-45-15706-1664937.jpg",
+      "pieceTitle": "Wedge Plate 1 x 4 A-Frame",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-wedge-plate-2-x-2-wing-left-24299-1701039.jpg",
+      "pieceTitle": "Wedge Plate 2 x 2 Wing Left",
+      "qty": 5
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-orange-wedge-plate-2-x-2-wing-right-24307-1578917.jpg",
+      "pieceTitle": "Wedge Plate 2 x 2 Wing Right",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-wedge-plate-2-x-3-wing-left-43723-1640987.jpg",
+      "pieceTitle": "Wedge Plate 2 x 3 Wing Left",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-wedge-plate-2-x-3-wing-right-43722-1641055.jpg",
+      "pieceTitle": "Wedge Plate 2 x 3 Wing Right",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-wedge-plate-3-x-6-with-45-corners-2419-43127-1568185.jpg",
+      "pieceTitle": "Wedge Plate 3 x 6 with 45º Corners",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-dark-flesh-wedge-plate-6-x-6-corner-6106-1617479.jpg",
+      "pieceTitle": "Wedge Plate 6 x 6 Corner",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-plate-1-x-3-rounded-77850-1669613.jpg",
+      "pieceTitle": "Plate 1 x 3 Rounded",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-plate-1-x-4-with-wheel-holders-2926-42946-1577667.jpg",
+      "pieceTitle": "Plate 1 x 4 with Wheel Holders",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-magenta-plate-2-x-2-round-corner-79491-1587095.jpg",
+      "pieceTitle": "Plate 2 x 2 Round Corner",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-yellow-plate-2-x-2-with-groove-and-1-center-stud-23893-87580-1656133.jpg",
+      "pieceTitle": "Plate 2 x 2 with Groove and 1 Center Stud",
+      "qty": 54
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-plate-2-x-2-with-wheel-holder-4488-10313-1598337.jpg",
+      "pieceTitle": "Plate 2 x 2 with Wheel Holder",
+      "qty": 13
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-blue-plate-2-x-3-3021-1580023.jpg",
+      "pieceTitle": "Plate 2 x 3",
+      "qty": 29
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-plate-3-x-3-corner-77844-1627623.jpg",
+      "pieceTitle": "Plate 3 x 3 Corner",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-reddish-brown-plate-3-x-3-rounded-corner-68568-1678049.jpg",
+      "pieceTitle": "Plate 3 x 3 Rounded Corner",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-reddish-brown-plate-4-x-4-with-2-x-2-open-center-64799-1689265.jpg",
+      "pieceTitle": "Plate 4 x 4 with 2 x 2 Open Center",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-dark-flesh-plate-8-x-8-round-with-rounded-corners-65140-1169691.jpg",
+      "pieceTitle": "Plate 8 x 8 Round with Rounded Corners",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-slope-1-x-2-x-1-3-curved-with-plate-6091-32807-1768791.jpg",
+      "pieceTitle": "Slope 1 x 2 x 1.3 Curved with Plate",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-green-wedge-plate-2-x-2-cut-corner-26601-1669863.jpg",
+      "pieceTitle": "Wedge Plate 2 x 2 Cut Corner",
+      "qty": 7
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-green-plate-1-x-1-with-3-plant-leaves-5971-32607-1712819.jpg",
+      "pieceTitle": "Plate 1 x 1 with 3 Plant Leaves",
+      "qty": 8
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-plate-1-x-12-60479-1779605.jpg",
+      "pieceTitle": "Plate 1 x 12",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-plate-2-x-12-2445-1567283.jpg",
+      "pieceTitle": "Plate 2 x 12",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-plate-2-x-16-4282-1794977.jpg",
+      "pieceTitle": "Plate 2 x 16",
+      "qty": 12
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-plate-2-x-2-with-wide-wheel-holders-non-reinforced-bottom-6157-1604879.jpg",
+      "pieceTitle": "Plate 2 x 2 with Wide Wheel Holders",
+      "qty": 8
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-plate-8-x-16-x-0-7-2629-1710865.jpg",
+      "pieceTitle": "Plate 8 x 16 x 0.7",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-brown-black-plate-1-x-1-3024-30008-911477.jpg",
+      "pieceTitle": "Plate 1 x 1",
+      "qty": 59
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-plate-1-x-2-with-horizontal-clips-open-o-clips-49563-60470-1688079.jpg",
+      "pieceTitle": "Plate 1 x 2 with Horizontal Clips",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-plate-2-x-2-corner-2420-1752901.jpg",
+      "pieceTitle": "Plate 2 x 2 Corner",
+      "qty": 20
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-orange-plate-2-x-2-x-0-7-with-2-studs-on-side-4304-99206-1712233.jpg",
+      "pieceTitle": "Plate 2 x 2 x 0.7 with 2 Studs on Side",
+      "qty": 10
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-plate-2-x-6-x-0-7-with-4-studs-on-side-72132-87609-1656071.jpg",
+      "pieceTitle": "Plate 2 x 6 x 0.7 with 4 Studs on Side",
+      "qty": 5
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-plate-6-x-8-3036-1582917.jpg",
+      "pieceTitle": "Plate 6 x 8",
+      "qty": 13
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-wedge-plate-2-x-4-51739-1645517.jpg",
+      "pieceTitle": "Wedge Plate 2 x 4",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-plate-1-x-1-with-vertical-clip-thick-open-o-clip-44860-60897-1665457.jpg",
+      "pieceTitle": "Plate 1 x 1 with Vertical Clip",
+      "qty": 16
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-plate-1-x-2-with-wheel-holder-with-reinforced-underside-66897-1669833.jpg",
+      "pieceTitle": "Plate 1 x 2 with Wheel Holder with Reinforced Underside",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-plate-1-x-5-78329-1722737.jpg",
+      "pieceTitle": "Plate 1 x 5",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-plate-2-x-10-3832-1588639.jpg",
+      "pieceTitle": "Plate 2 x 10",
+      "qty": 5
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-plate-2-x-2-with-holes-2817-1572305.jpg",
+      "pieceTitle": "Plate 2 x 2 with Holes",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-plate-2-x-2-with-two-wheel-holders-4600-67687-1602475.jpg",
+      "pieceTitle": "Plate 2 x 2 with Two Wheel Holders",
+      "qty": 5
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-plate-3-x-3-11212-1692531.jpg",
+      "pieceTitle": "Plate 3 x 3",
+      "qty": 5
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-plate-4-x-4-3031-1580257.jpg",
+      "pieceTitle": "Plate 4 x 4",
+      "qty": 16
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-technic-plate-2-x-8-with-holes-3738-1588911.jpg",
+      "pieceTitle": "Technic Plate 2 x 8 with Holes",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-plate-1-x-2-with-top-clip-with-gap-92280-1571053.jpg",
+      "pieceTitle": "Plate 1 x 2 with Top Clip with Gap",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-plate-2-x-2-round-with-wheel-holder-2655-26716-1570053.jpg",
+      "pieceTitle": "Plate 2 x 2 Round with Wheel Holder",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-flat-silver-plate-1-x-1-with-tooth-35162-49668-1031035.jpg",
+      "pieceTitle": "Flat Silver Plate 1 x 1 with Tooth",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-plate-2-x-2-with-ball-joint-socket-flattened-42478-63082-1649963.jpg",
+      "pieceTitle": "Plate 2 x 2 with Ball Joint Socket",
+      "qty": 5
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-plate-6-x-16-3027-1566147.jpg",
+      "pieceTitle": "Plate 6 x 16",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-wedge-plate-4-x-4-corner-30503-1620287.jpg",
+      "pieceTitle": "Wedge Plate 4 x 4 Corner",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-plate-1-x-1-with-horizontal-clip-thick-open-o-clip-52738-61252-1650215.jpg",
+      "pieceTitle": "Plate 1 x 1 with Horizontal Clip",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-plate-1-x-2-with-clip-78256-1632049.jpg",
+      "pieceTitle": "Plate 1 x 2 with Clip",
+      "qty": 7
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-green-plate-3-x-6-round-half-circle-with-cutout-18646-1729771.jpg",
+      "pieceTitle": "Plate 3 x 6 Round Half Circle with Cutout",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-slope-1-x-2-45-with-plate-15672-92946-1660259.jpg",
+      "pieceTitle": "Slope 1 x 2 with Plate",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-bright-light-orange-plate-2-x-2-with-groove-and-1-center-stud-with-black-square-with-eyes-23893-104676-1720971.jpg",
+      "pieceTitle": "Plate 2 x 2 with Groove and 1 Center Stud with Black Square with Eyes",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-plate-2-x-2-with-hole-with-underneath-cross-support-10247-1293521.jpg",
+      "pieceTitle": "Plate 2 x 2 with Hole with Underneath Cross Support",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-reddish-brown-plate-1-x-1-round-swirl-3441-53119-1183841.jpg",
+      "pieceTitle": "Plate 1 x 1 Round Swirl",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-light-blue-plate-1-x-1-with-tooth-35162-49668-1678645.jpg",
+      "pieceTitle": "Plate 1 x 1 with Tooth",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-plate-2-x-2-with-ball-joint-and-hole-in-plate-3768-15456-1687831.jpg",
+      "pieceTitle": "Plate 2 x 2 with Ball Joint and Hole in Plate",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-tan-plate-2-x-4-with-2-studs-65509-1647945.jpg",
+      "pieceTitle": "Plate 2 x 4 with 2 Studs",
+      "qty": 18
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-plate-4-x-4-round-with-hole-and-snapstud-60474-1650749.jpg",
+      "pieceTitle": "Plate 4 x 4 Round with Hole and Snapstud",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-bright-green-plate-8-x-8-round-half-circle-41948-1721679.jpg",
+      "pieceTitle": "Plate 8 x 8 Round Half Circle",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-wedge-plate-4-x-9-wing-with-stud-notches-14181-1679711.jpg",
+      "pieceTitle": "Wedge Plate 4 x 9 Wing with Stud Notches",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-plate-1-x-1-with-clip-thick-ring-4081-41632-1665501.jpg",
+      "pieceTitle": "Plate 1 x 1 with Clip",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-flat-silver-plate-1-x-4-with-exhaust-ports-61072-910463.jpg",
+      "pieceTitle": "Flat Silver Plate 1 x 4 with Exhaust Ports",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-pearl-light-gray-plate-1-x-4-with-exhaust-ports-61072-1649413.jpg",
+      "pieceTitle": "Plate 1 x 4 with Exhaust Ports",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-plate-1-x-2-triangle-with-ball-joint-2508-1561075.jpg",
+      "pieceTitle": "Plate 1 x 2 Triangle with Ball Joint",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-wedge-plate-3-x-4-with-stud-notches-28842-48183-1642713.jpg",
+      "pieceTitle": "Wedge Plate 3 x 4 with Stud Notches",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-plate-2-x-2-round-with-rounded-bottom-2654-28558-1762473.jpg",
+      "pieceTitle": "Plate 2 x 2 Round with Rounded Bottom",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-plate-4-x-8-3035-1582977.jpg",
+      "pieceTitle": "Plate 4 x 8",
+      "qty": 5
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-turquoise-plate-6-x-12-3028-1769773.jpg",
+      "pieceTitle": "Plate 6 x 12",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-plate-6-x-14-3456-1071249.jpg",
+      "pieceTitle": "Plate 6 x 14",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-plate-1-x-2-with-middle-ball-joint-14417-1778731.jpg",
+      "pieceTitle": "Plate 1 x 2 with Middle Ball Joint",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-plate-1-x-2-with-middle-ball-joint-socket-14704-1778735.jpg",
+      "pieceTitle": "Plate 1 x 2 with Middle Ball Joint Socket",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-sand-blue-plate-2-x-2-with-raised-grilles-41862-1658117.jpg",
+      "pieceTitle": "Plate 2 x 2 with Raised Grilles",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-tan-wedge-plate-3-x-3-corner-2450-1566941.jpg",
+      "pieceTitle": "Wedge Plate 3 x 3 Corner",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-plate-1-x-2-with-underside-hole-18677-28809-1697369.jpg",
+      "pieceTitle": "Plate 1 x 2 with Underside Hole",
+      "qty": 5
+    }
+  ],
+  "Rubber Band": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-yellow-rubber-band-33-mm-70905-85546-1595127.jpg",
+      "pieceTitle": "Rubber Band 33 mm",
+      "qty": 2
+    }
+  ],
+  "Shovel": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-flat-silver-shovel-round-stem-end-3837-1185769.jpg",
+      "pieceTitle": "Flat Silver Shovel",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-shovel-round-stem-end-3837-1588579.jpg",
+      "pieceTitle": "Shovel",
+      "qty": 4
+    }
+  ],
+  "Slope": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-slope-1-x-1-31-50746-54200-1645359.jpg",
+      "pieceTitle": "Slope 1 x 1",
+      "qty": 53
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-slope-1-x-2-31-85984-1656539.jpg",
+      "pieceTitle": "Slope 1 x 2",
+      "qty": 71
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-slope-1-x-2-x-2-65-60481-1650621.jpg",
+      "pieceTitle": "Slope 1 x 2 x 2",
+      "qty": 12
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-tan-slope-1-x-3-25-4286-1601231.jpg",
+      "pieceTitle": "Slope 1 x 3",
+      "qty": 12
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-tan-slope-2-x-2-45-3039-6227-1692747.jpg",
+      "pieceTitle": "Slope 2 x 2",
+      "qty": 14
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-slope-2-x-2-curved-15068-1778861.jpg",
+      "pieceTitle": "Slope 2 x 2 Curved",
+      "qty": 17
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-tan-slope-2-x-2-x-2-65-with-bottom-tube-3678-1629587.jpg",
+      "pieceTitle": "Slope 2 x 2 x 2 with Bottom Tube",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-slope-1-x-2-curved-3593-11477-1612083.jpg",
+      "pieceTitle": "Slope 1 x 2 Curved",
+      "qty": 46
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-dark-flesh-slope-1-x-3-x-2-curved-33243-1622385.jpg",
+      "pieceTitle": "Slope 1 x 3 x 2 Curved",
+      "qty": 8
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-tan-slope-1-x-4-x-0-7-curved-79756-1702991.jpg",
+      "pieceTitle": "Slope 1 x 4 x 0.7 Curved",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-slope-1-x-2-x-3-75-inverted-2449-1756355.jpg",
+      "pieceTitle": "Slope 1 x 2 x 3 Inverted",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-slope-1-x-4-curved-double-93273-918069.jpg",
+      "pieceTitle": "Slope 1 x 4 Curved Double",
+      "qty": 31
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-green-slope-1-x-6-45-double-inverted-with-open-center-52501-1706689.jpg",
+      "pieceTitle": "Slope 1 x 6 Double Inverted with Open Center",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-slope-2-x-4-curved-93606-1661471.jpg",
+      "pieceTitle": "Slope 2 x 4 Curved",
+      "qty": 8
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-slope-1-x-2-45-inverted-3665-1589773.jpg",
+      "pieceTitle": "Slope 1 x 2 Inverted",
+      "qty": 40
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-vibrant-yellow-slope-2-x-2-curved-with-black-scales-15068-101401-1677963.jpg",
+      "pieceTitle": "Slope 2 x 2 Curved with Black Scales",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-slope-1-x-2-curved-inverted-24201-1628975.jpg",
+      "pieceTitle": "Slope 1 x 2 Curved Inverted",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-slope-1-x-3-25-inverted-4287-1601055.jpg",
+      "pieceTitle": "Slope 1 x 3 Inverted",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-slope-2-x-2-curved-with-curved-end-47457-1639803.jpg",
+      "pieceTitle": "Slope 2 x 2 Curved with Curved End",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-slope-2-x-4-45-double-inverted-with-open-center-4871-1605625.jpg",
+      "pieceTitle": "Slope 2 x 4 Double Inverted with Open Center",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-slope-2-x-4-curved-with-bottom-tubes-88930-1655601.jpg",
+      "pieceTitle": "Slope 2 x 4 Curved with Bottom Tubes",
+      "qty": 13
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-slope-2-x-2-curved-with-2-studs-on-top-30165-1615789.jpg",
+      "pieceTitle": "Slope 2 x 2 Curved with 2 Studs on Top",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-slope-1-x-2-x-2-curved-with-4-4973-105275-1684051.jpg",
+      "pieceTitle": "Slope 1 x 2 x 2 Curved with \"4\"",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-bright-light-orange-slope-2-x-2-curved-with-21-15068-105276-1608363.jpg",
+      "pieceTitle": "Slope 2 x 2 Curved with \"21\"",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-slope-1-x-2-31-with-dials-and-guages-73784-85984-1658543.jpg",
+      "pieceTitle": "Slope 1 x 2 with Dials and guages",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-orange-slope-2-x-2-45-inverted-with-flat-spacer-underneath-3660-1589993.jpg",
+      "pieceTitle": "Slope 2 x 2 Inverted with Flat Spacer Underneath",
+      "qty": 12
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-slope-2-x-2-x-1-curved-inverted-1750-1443261.jpg",
+      "pieceTitle": "Slope 2 x 2 x 1 Curved Inverted",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-slope-2-x-6-45-double-inverted-with-open-center-22889-1709061.jpg",
+      "pieceTitle": "Slope 2 x 6 Double Inverted with Open Center",
+      "qty": 11
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-slope-1-x-2-45-with-keypad-green-digital-display-and-buttons-pattern-46095-50344-1556267.jpg",
+      "pieceTitle": "Slope 1 x 2 with Keypad, Green Digital Display, and Buttons Pattern",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-dark-blue-slope-1-x-2-x-2-curved-30602-47904-1439315.jpg",
+      "pieceTitle": "Transparent Slope 1 x 2 x 2 Curved",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-slope-1-x-2-x-2-curved-30602-47904-1576619.jpg",
+      "pieceTitle": "Slope 1 x 2 x 2 Curved",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-slope-1-x-2-x-2-curved-with-yellow-headlights-and-grey-30602-36122-736559.jpg",
+      "pieceTitle": "Slope 1 x 2 x 2 Curved with Yellow Headlights and Grey",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-yellow-slope-1-x-3-curved-50950-1560309.jpg",
+      "pieceTitle": "Slope 1 x 3 Curved",
+      "qty": 5
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-slope-2-x-4-45-with-rough-surface-3037-1582871.jpg",
+      "pieceTitle": "Slope 2 x 4 with Rough Surface",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-slope-1-x-4-45-double-inverted-with-open-center-32802-1674643.jpg",
+      "pieceTitle": "Slope 1 x 4 Double Inverted with Open Center",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-lime-slope-2-x-2-curved-with-leaf-15068-101433-1348645.jpg",
+      "pieceTitle": "Slope 2 x 2 Curved with Leaf",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-orange-slope-1-x-4-curved-with-turbo-6191-80740-1215491.jpg",
+      "pieceTitle": "Slope 1 x 4 Curved with 'TURBO'",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-orange-slope-2-x-6-curved-with-number-8-44126-80741-1215497.jpg",
+      "pieceTitle": "Slope 2 x 6 Curved with Number '8'",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-slope-2-x-2-45-inverted-with-hollow-tube-spacer-underneath-3660-76959-1266761.jpg",
+      "pieceTitle": "Slope 2 x 2 Inverted with Hollow Tube Spacer Underneath",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-light-aqua-slope-1-x-4-curved-11153-61678-1649403.jpg",
+      "pieceTitle": "Slope 1 x 4 Curved",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-slope-2-x-2-x-0-7-curved-inverted-32803-1667783.jpg",
+      "pieceTitle": "Slope 2 x 2 x 0.7 Curved Inverted",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-brown-black-slope-3-x-6-25-without-inner-walls-35283-58181-945191.jpg",
+      "pieceTitle": "Slope 3 x 6 without Inner Walls",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-slope-2-x-3-25-with-rough-surface-3298-1585813.jpg",
+      "pieceTitle": "Slope 2 x 3 with Rough Surface",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-slope-1-x-1-45-double-35464-1658813.jpg",
+      "pieceTitle": "Slope 1 x 1 Double",
+      "qty": 4
+    }
+  ],
+  "Tile": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-brown-black-tile-1-x-1-round-35381-98138-1695853.jpg",
+      "pieceTitle": "Tile 1 x 1 Round",
+      "qty": 46
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-bright-light-yellow-tile-1-x-1-round-with-light-35380-101413-1724287.jpg",
+      "pieceTitle": "Tile 1 x 1 Round with \"Light\"",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-tile-1-x-2-with-rounded-ends-1126-1766391.jpg",
+      "pieceTitle": "Tile 1 x 2 with Rounded Ends",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tile-1-x-6-6636-1676233.jpg",
+      "pieceTitle": "Tile 1 x 6",
+      "qty": 35
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-tile-2-x-2-round-with-bottom-stud-holder-14769-1582039.jpg",
+      "pieceTitle": "Tile 2 x 2 Round with Bottom Stud Holder",
+      "qty": 13
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-tile-2-x-4-87079-1591973.jpg",
+      "pieceTitle": "Tile 2 x 4",
+      "qty": 31
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-tile-2-x-6-69729-1667225.jpg",
+      "pieceTitle": "Tile 2 x 6",
+      "qty": 11
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-tile-1-x-1-round-with-gauge-35380-73774-1201617.jpg",
+      "pieceTitle": "Tile 1 x 1 Round with Gauge",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-tile-1-x-1-with-keypad-with-groove-3070-73777-1201755.jpg",
+      "pieceTitle": "Tile 1 x 1 with Keypad with Groove",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-tile-1-x-2-grille-with-bottom-groove-2412-30244-906877.jpg",
+      "pieceTitle": "Tile 1 x 2 Grille",
+      "qty": 94
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-tile-1-x-2-with-groove-3069-30070-1672241.jpg",
+      "pieceTitle": "Tile 1 x 2 with Groove",
+      "qty": 90
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-dark-flesh-tile-2-x-2-round-with-seeds-tan-marks-with-bottom-stud-holder-14769-105284-1710133.jpg",
+      "pieceTitle": "Tile 2 x 2 Round with Seeds / Tan Marks with Bottom Stud Holder",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tile-2-x-6-with-flames-69729-105283-1622337.jpg",
+      "pieceTitle": "Tile 2 x 6 with Flames",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tile-4-x-4-with-burgers-1751-106410-1716039.jpg",
+      "pieceTitle": "Tile 4 x 4 with \"BURGERS\"",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tile-4-x-4-with-clips-and-edge-studs-66252-1716785.jpg",
+      "pieceTitle": "Tile 4 x 4 with Clips and Edge Studs",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-tile-4-x-4-with-studs-on-edge-6179-1604819.jpg",
+      "pieceTitle": "Tile 4 x 4 with Studs on Edge",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-flat-silver-tile-1-x-2-grille-with-bottom-groove-2412-30244-921459.jpg",
+      "pieceTitle": "Flat Silver Tile 1 x 2 Grille",
+      "qty": 5
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-tile-2-x-2-round-with-hole-in-center-with-rotor-blades-15535-21605-1671281.jpg",
+      "pieceTitle": "Tile 2 x 2 Round with Hole in Center with Rotor Blades",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-tile-2-x-2-round-with-vent-design-with-x-bottom-49039-84224-465929.jpg",
+      "pieceTitle": "Tile 2 x 2 Round with Vent Design with \"X\" Bottom",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-tile-3-x-3-round-67095-1711821.jpg",
+      "pieceTitle": "Tile 3 x 3 Round",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-light-blue-tile-1-x-1-quarter-circle-25269-84411-1706015.jpg",
+      "pieceTitle": "Tile 1 x 1 Quarter Circle",
+      "qty": 14
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-azure-tile-1-x-2-with-battery-with-groove-3069-101704-1594465.jpg",
+      "pieceTitle": "Tile 1 x 2 with Battery with Groove",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-tile-1-x-3-63864-1649939.jpg",
+      "pieceTitle": "Tile 1 x 3",
+      "qty": 37
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tile-3-x-4-with-four-studs-17836-88646-1655617.jpg",
+      "pieceTitle": "Tile 3 x 4 with Four Studs",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-dark-blue-tile-1-x-2-with-groove-3069-30070-916757.jpg",
+      "pieceTitle": "Transparent Tile 1 x 2 with Groove",
+      "qty": 12
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-light-blue-tile-1-x-4-2431-35371-1672603.jpg",
+      "pieceTitle": "Tile 1 x 4",
+      "qty": 35
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-turquoise-tile-2-x-6-with-vehicle-front-with-headlights-69729-105297-1622339.jpg",
+      "pieceTitle": "Tile 2 x 6 with Vehicle Front with Headlights",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tile-1-x-1-with-groove-3070-30039-1660523.jpg",
+      "pieceTitle": "Tile 1 x 1 with Groove",
+      "qty": 35
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-metallic-silver-tile-1-x-2-grille-with-bottom-groove-2412-30244-906861.jpg",
+      "pieceTitle": "Metallic Silver Tile 1 x 2 Grille",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tile-1-x-8-4162-1595727.jpg",
+      "pieceTitle": "Tile 1 x 8",
+      "qty": 19
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tile-2-x-2-corner-with-cutouts-27263-1578939.jpg",
+      "pieceTitle": "Tile 2 x 2 Corner with Cutouts",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-tile-2-x-2-round-with-hole-in-center-15535-1649273.jpg",
+      "pieceTitle": "Tile 2 x 2 Round with Hole in Center",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-tile-2-x-2-with-studs-on-edge-33909-1713209.jpg",
+      "pieceTitle": "Tile 2 x 2 with Studs on Edge",
+      "qty": 5
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-tile-1-x-6-with-eb-220-and-red-white-stripes-6636-43175-780995.jpg",
+      "pieceTitle": "Tile 1 x 6 with 'EB 220' and Red/White Stripes",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-turquoise-tile-1-x-3-with-black-and-purple-flame-63864-105889-1558593.jpg",
+      "pieceTitle": "Tile 1 x 3 with Black and Purple Flame",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-bright-light-orange-tile-1-x-4-with-white-and-black-lines-2431-105890-1720427.jpg",
+      "pieceTitle": "Tile 1 x 4 with White and Black Lines",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-tile-2-x-2-round-with-stud-18674-1603487.jpg",
+      "pieceTitle": "Tile 2 x 2 Round with Stud",
+      "qty": 5
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-dark-flesh-tile-1-x-1-round-with-donut-16887-21612-1183951.jpg",
+      "pieceTitle": "Tile 1 x 1 Round with Donut",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-tile-1-x-1-round-with-fried-egg-36089-98138-1628487.jpg",
+      "pieceTitle": "Tile 1 x 1 Round with Fried Egg",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-flat-silver-tile-1-x-1-round-with-soda-can-top-21610-98138-1201479.jpg",
+      "pieceTitle": "Flat Silver Tile 1 x 1 Round with Soda Can Top",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-bright-pink-tile-1-x-1-round-with-strawberry-15826-98138-1688593.jpg",
+      "pieceTitle": "Tile 1 x 1 Round with Strawberry",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-pearl-gold-tile-1-x-1-round-with-compass-rose-25619-98138-1201497.jpg",
+      "pieceTitle": "Tile 1 x 1 Round with Compass Rose",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-olive-green-tile-1-x-1-with-clip-raised-c-15712-44842-1718593.jpg",
+      "pieceTitle": "Olive Tile 1 x 1 with Clip",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-blue-tile-1-x-2-45-angled-cut-left-5091-1746943.jpg",
+      "pieceTitle": "Tile 1 x 2 45° Angled Cut Left",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-blue-tile-1-x-2-45-angled-cut-right-5092-1746941.jpg",
+      "pieceTitle": "Tile 1 x 2 45° Angled Cut Right",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-olive-green-tile-1-x-2-with-groove-3069-30070-1649221.jpg",
+      "pieceTitle": "Olive Tile 1 x 2 with Groove",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-tile-2-x-2-with-map-with-groove-3068-108374-1725109.jpg",
+      "pieceTitle": "Tile 2 x 2 with Map with Groove",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tile-2-x-3-26603-1642559.jpg",
+      "pieceTitle": "Tile 2 x 3",
+      "qty": 7
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-dark-blue-tile-1-x-1-round-35381-98138-1661171.jpg",
+      "pieceTitle": "Transparent Tile 1 x 1 Round",
+      "qty": 8
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-dark-flesh-tile-1-x-1-round-with-paw-print-26819-98138-1678573.jpg",
+      "pieceTitle": "Tile 1 x 1 Round with Paw Print",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-blue-tile-1-x-1-with-clip-raised-c-15712-44842-1617769.jpg",
+      "pieceTitle": "Tile 1 x 1 with Clip",
+      "qty": 13
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-tile-4-x-4-curved-corner-with-cutouts-3477-27507-1664655.jpg",
+      "pieceTitle": "Tile 4 x 4 Curved Corner with Cutouts",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-tile-6-x-6-with-bottom-tubes-10202-1556091.jpg",
+      "pieceTitle": "Tile 6 x 6 with Bottom Tubes",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tile-2-x-2-triangular-35787-1613555.jpg",
+      "pieceTitle": "Tile 2 x 2 Triangular",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-tile-2-x-2-with-groove-3068-88409-1655175.jpg",
+      "pieceTitle": "Tile 2 x 2 with Groove",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tile-2-x-4-with-blue-flame-87079-105294-1710093.jpg",
+      "pieceTitle": "Tile 2 x 4 with Blue Flame",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-green-tile-1-x-2-with-100-cash-with-groove-3069bpx7-82317-1027315.jpg",
+      "pieceTitle": "Tile 1 x 2 with 100 Cash with Groove",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-tile-1-x-2-with-cockpit-dials-with-groove-50290-83483-1571497.jpg",
+      "pieceTitle": "Tile 1 x 2 with Cockpit Dials with Groove",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-blue-tile-2-x-2-with-police-badge-with-groove-3068-36117-736555.jpg",
+      "pieceTitle": "Tile 2 x 2 with Police Badge with Groove",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-tile-2-x-2-with-wanted-poster-5-000-with-groove-3068-36119-736557.jpg",
+      "pieceTitle": "Tile 2 x 2 with Wanted Poster 5,000 with Groove",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-blue-tile-2-x-4-with-white-police-and-badge-sign-36103-87079-736551.jpg",
+      "pieceTitle": "Tile 2 x 4 with White Police and Badge Sign",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-dark-flesh-tile-1-x-1-round-with-big-acorn-31838-84554-1587347.jpg",
+      "pieceTitle": "Tile 1 x 1 Round with Big Acorn",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-tile-1-x-1-round-with-ladybird-body-35380-72399-1058589.jpg",
+      "pieceTitle": "Tile 1 x 1 Round with Ladybird Body",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-dark-blue-tile-1-x-4-2431-35371-1672607.jpg",
+      "pieceTitle": "Transparent Tile 1 x 4",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-orange-tile-2-x-3-with-horizontal-clips-thick-open-o-clips-30350-65886-1652777.jpg",
+      "pieceTitle": "Tile 2 x 3 with Horizontal Clips",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-tile-1-x-2-with-checklist-light-blue-with-groove-3069-73792-1602511.jpg",
+      "pieceTitle": "White Tile 1 x 2 with Checklist with Groove",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-tile-1-x-2-with-ticket-and-0937-with-groove-3069-33979-1708933.jpg",
+      "pieceTitle": "Tile 1 x 2 with ‘TICKET’ and ‘0937’ with Groove",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-tile-1-x-1-round-with-battery-35380-105855-1556807.jpg",
+      "pieceTitle": "Tile 1 x 1 Round with Battery",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-reddish-orange-tile-1-x-2-with-half-circle-1748-1763949.jpg",
+      "pieceTitle": "Tile 1 x 2 with Half Circle",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-tile-2-x-2-round-with-x-bottom-4150-1785395.jpg",
+      "pieceTitle": "Tile 2 x 2 Round with \"X\" Bottom",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-tile-2-x-2-with-space-planet-logo-with-groove-3068-105854-1710153.jpg",
+      "pieceTitle": "Tile 2 x 2 with Space Planet Logo with Groove",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-tile-1-x-1-half-oval-24246-35399-1705071.jpg",
+      "pieceTitle": "Tile 1 x 1 Half Oval",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-tile-2-x-2-inverted-11203-1607645.jpg",
+      "pieceTitle": "Tile 2 x 2 Inverted",
+      "qty": 12
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tile-2-x-2-round-with-fire-charge-decoration-with-bottom-stud-holder-37058-106305-1587091.jpg",
+      "pieceTitle": "Tile 2 x 2 Round with Fire Charge Decoration with Bottom Stud Holder",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-flesh-tile-2-x-3-with-pixels-26603-106303-1720543.jpg",
+      "pieceTitle": "Tile 2 x 3 with Pixels",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tile-1-x-2-with-black-smartphone-with-groove-3069-73893-1562715.jpg",
+      "pieceTitle": "Tile 1 x 2 with Black Smartphone with Groove",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-tile-1-x-6-with-red-hazard-stripes-6636-107554-1725119.jpg",
+      "pieceTitle": "White Tile 1 x 6 with Hazard Stripes",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-tile-2-x-4-with-spanner-and-wheel-with-tyre-87079-107553-1725117.jpg",
+      "pieceTitle": "Tile 2 x 4 with Spanner and Wheel with Tyre",
+      "qty": 2
+    }
+  ],
+  "Tire": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tire-20-9-x-5-8-50861-438211.jpg",
+      "pieceTitle": "Tire Ø20.9 x 5.8",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tire-56-x-26-balloon-5632-55976-1478801.jpg",
+      "pieceTitle": "Tire Ø56 x 26 Balloon",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tire-21-x-9-9-11209-498233.jpg",
+      "pieceTitle": "Tire Ø21 x 9.9",
+      "qty": 36
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tire-24-x-12-balloon-28290-56890-1648967.jpg",
+      "pieceTitle": "Tire Ø24 x 12 Balloon",
+      "qty": 10
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tire-30-4-x-14-with-offset-tread-pattern-and-band-around-center-92402-1571951.jpg",
+      "pieceTitle": "Tire Ø30.4 x 14 with Offset Tread Pattern and Band around Center",
+      "qty": 10
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tire-14-58-x-6-24-50951-471595.jpg",
+      "pieceTitle": "Tire Ø14.58 x 6.24",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tire-30-4-x-14-thick-rubber-58090-441321.jpg",
+      "pieceTitle": "Tire Ø30.4 x 14",
+      "qty": 16
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tire-14-6-x-9mm-30028-468877.jpg",
+      "pieceTitle": "Tire Ø14.6 X 9mm",
+      "qty": 8
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tire-24-x-12-low-profile-18977-1754363.jpg",
+      "pieceTitle": "Tire Ø24 x 12 Low Profile",
+      "qty": 9
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tire-56-x-26-tractor-70695-1048539.jpg",
+      "pieceTitle": "Tire Ø56 x 26 Tractor",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tire-21-x-12-offset-tread-small-wide-with-band-around-center-of-tread-87697-482983.jpg",
+      "pieceTitle": "Tire Ø21 x 12 - Offset Tread Small Wide with Band Around Center of Tread",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tire-17-6-x-6-24-with-band-around-center-of-tread-92409-623663.jpg",
+      "pieceTitle": "Tire Ø17.6 x 6.24 with Band Around Center of Tread",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tire-37-x-22-zr-low-profile-55978-1787645.jpg",
+      "pieceTitle": "Tire Ø37 X 22 ZR Low Profile",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-tire-24-x-7-narrow-61254-443175.jpg",
+      "pieceTitle": "Tire Ø24 x 7 Narrow",
+      "qty": 4
+    }
+  ],
+  "Steering Wheel": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-vehicle-console-with-black-steering-wheel-3829-73081-1624695.jpg",
+      "pieceTitle": "Vehicle Console with Black Steering Wheel",
+      "qty": 12
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-yellow-vehicle-console-with-black-steering-wheel-3829-73081-917631.jpg",
+      "pieceTitle": "Yellow Vehicle Console with Steering Wheel",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-vehicle-console-with-black-steering-wheel-3829-73081-1615471.jpg",
+      "pieceTitle": "White Vehicle Console with Steering Wheel",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-blue-vehicle-console-with-black-steering-wheel-3829-73081-1671987.jpg",
+      "pieceTitle": "Blue Vehicle Console with Steering Wheel",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-vehicle-console-with-black-steering-wheel-3829-73081-1671983.jpg",
+      "pieceTitle": "Red Vehicle Console with Steering Wheel",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-small-steering-wheel-16091-30663-1618965.jpg",
+      "pieceTitle": "Small Steering Wheel",
+      "qty": 3
+    }
+  ],
+  "Wedge": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-wedge-4-x-6-curved-52031-1633431.jpg",
+      "pieceTitle": "Wedge 4 x 6 Curved",
+      "qty": 11
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-wedge-4-x-6-roof-curved-98281-1692089.jpg",
+      "pieceTitle": "Wedge 4 x 6 Roof Curved",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-wedge-1-x-2-left-29120-1556017.jpg",
+      "pieceTitle": "Wedge 1 x 2 Left",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-wedge-1-x-2-right-29119-1704495.jpg",
+      "pieceTitle": "Wedge 1 x 2 Right",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-vibrant-yellow-wedge-4-x-6-curved-with-emt-star-of-life-52031-105298-1677493.jpg",
+      "pieceTitle": "Wedge 4 x 6 Curved with EMT Star of Life",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-wedge-4-x-6-x-0-7-double-32739-1692673.jpg",
+      "pieceTitle": "Wedge 4 x 6 x 0.7 Double",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-azure-wedge-3-x-4-x-0-7-with-cutout-11291-31584-1712825.jpg",
+      "pieceTitle": "Wedge 3 x 4 x 0.7 with Cutout",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-wedge-4-x-4-curved-45677-1640023.jpg",
+      "pieceTitle": "Wedge 4 x 4 Curved",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-wedge-3-x-4-x-0-7-with-recess-with-engine-grille-93604-107552-1725115.jpg",
+      "pieceTitle": "Wedge 3 x 4 x 0.7 with Recess with Engine Grille",
+      "qty": 1
+    }
+  ],
+  "Windscreen": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-brown-black-windscreen-6-x-6-x-1-3-65632-1013715.jpg",
+      "pieceTitle": "Windscreen 6 x 6 x 1.3",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-windscreen-1-x-6-x-3-39889-64453-1760549.jpg",
+      "pieceTitle": "Windscreen 1 x 6 x 3",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-windscreen-2-x-6-x-2-4176-35336-1595693.jpg",
+      "pieceTitle": "Windscreen 2 x 6 x 2",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-brown-black-windscreen-4-x-3-x-1-3-with-hollow-studs-35279-57783-914397.jpg",
+      "pieceTitle": "Windscreen 4 x 3 x 1.3 with Hollow Studs",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-brown-black-windscreen-4-x-6-x-1-3-18973-35303-1278063.jpg",
+      "pieceTitle": "Windscreen 4 x 6 x 1.3",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-brown-black-windscreen-3-x-6-x-2-39891-92583-1022595.jpg",
+      "pieceTitle": "Windscreen 3 x 6 x 2",
+      "qty": 5
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-windscreen-5-x-6-x-2-curved-61484-92115-1650155.jpg",
+      "pieceTitle": "Windscreen 5 x 6 x 2 Curved",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-windscreen-2-x-4-81911-1698985.jpg",
+      "pieceTitle": "Windscreen 2 x 4",
+      "qty": 2
+    }
+  ],
+  "Sticker Sheet": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-sticker-sheet-for-set-60387-10101459-1467625.jpg",
+      "pieceTitle": "Sticker Sheet for Set 60387",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-sticker-sheet-for-set-60362-10103037-1512941.jpg",
+      "pieceTitle": "Sticker Sheet for Set 60362",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-sticker-sheet-for-set-60283-73124-1055455.jpg",
+      "pieceTitle": "Sticker Sheet for Set 60283",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-sticker-sheet-for-set-40650-104772-1422803.jpg",
+      "pieceTitle": "Sticker Sheet for Set 40650",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-sticker-sheet-for-set-60369-10101462-1366047.jpg",
+      "pieceTitle": "Sticker Sheet for Set 60369",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-sticker-sheet-for-set-60386-10101458-1471637.jpg",
+      "pieceTitle": "Sticker Sheet for Set 60386",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-sticker-sheet-for-set-60428-10105870-1737185.jpg",
+      "pieceTitle": "Sticker Sheet for Set 60428",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-sticker-sheet-for-set-40468-77329-1068901.jpg",
+      "pieceTitle": "Sticker Sheet for Set 40468",
+      "qty": 1
+    }
+  ],
+  "Door": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-door-1-x-3-x-1-left-3822-1588763.jpg",
+      "pieceTitle": "Door 1 x 3 x 1 Left",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-door-1-x-3-x-1-right-3821-3822-1290743.jpg",
+      "pieceTitle": "Door 1 x 3 x 1 Right",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-door-1-x-3-x-4-left-with-hollow-hinge-58381-1652173.jpg",
+      "pieceTitle": "Door 1 x 3 x 4 Left with Hollow Hinge",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-door-frame-1-x-4-x-6-single-sided-40289-60596-1761281.jpg",
+      "pieceTitle": "Door Frame 1 x 4 x 6",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-yellow-plate-1-x-2-with-door-rail-32028-1626085.jpg",
+      "pieceTitle": "Plate 1 x 2 with Door Rail",
+      "qty": 7
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-door-frame-2-x-4-x-6-60599-1624145.jpg",
+      "pieceTitle": "Door Frame 2 x 4 x 6",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-lime-door-1-x-3-x-2-left-with-hollow-hinge-92262-1692897.jpg",
+      "pieceTitle": "Door 1 x 3 x 2 Left with Hollow Hinge",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-door-frame-1-x-4-x-4-lift-6154-40527-1682053.jpg",
+      "pieceTitle": "Door Frame 1 x 4 x 4",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-plate-6-x-8-trap-door-frame-flush-pin-holders-92107-1696651.jpg",
+      "pieceTitle": "Plate 6 x 8 Trap Door Frame Flush Pin Holders",
+      "qty": 2
+    }
+  ],
+  "Fence": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-fence-1-x-4-x-1-lattice-3633-1590349.jpg",
+      "pieceTitle": "Fence 1 x 4 x 1 Lattice",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-reddish-brown-fence-spindled-1-x-4-x-2-with-4-top-studs-15332-1686559.jpg",
+      "pieceTitle": "Fence Spindled 1 x 4 x 2 with 4 Top Studs",
+      "qty": 2
+    }
+  ],
+  "Fork": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-flat-silver-fork-with-flat-end-79741-1722195.jpg",
+      "pieceTitle": "Flat Silver Fork with Flat End",
+      "qty": 1
+    }
+  ],
+  "Mudguard": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-mudguard-plate-2-x-4-with-arch-without-hole-3788-415401.jpg",
+      "pieceTitle": "Mudguard Plate 2 x 4 with Arch without Hole",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-mudguard-plate-2-x-4-with-overhanging-headlights-44674-1640305.jpg",
+      "pieceTitle": "Mudguard Plate 2 x 4 with Overhanging Headlights",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-mudguard-plate-2-x-2-with-shallow-wheel-arch-28326-1654357.jpg",
+      "pieceTitle": "Mudguard Plate 2 x 2 with Shallow Wheel Arch",
+      "qty": 5
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-mudguard-plate-2-x-2-with-flared-wheel-arches-41854-1781775.jpg",
+      "pieceTitle": "Mudguard Plate 2 x 2 with Flared Wheel Arches",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-lime-mudguard-plate-1-x-6-with-edge-4925-62361-1650037.jpg",
+      "pieceTitle": "Mudguard Plate 1 x 6 with Edge",
+      "qty": 6
+    }
+  ],
+  "Panel": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-panel-1-x-4-x-3-with-side-supports-hollow-studs-35323-60581-1650547.jpg",
+      "pieceTitle": "Panel 1 x 4 x 3 with Side Supports, Hollow Studs",
+      "qty": 8
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-azure-panel-1-x-2-x-1-with-closed-corners-23969-35391-1678997.jpg",
+      "pieceTitle": "Panel 1 x 2 x 1 with Closed Corners",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-azure-panel-1-x-2-x-1-with-rounded-corners-4865-26169-1675231.jpg",
+      "pieceTitle": "Panel 1 x 2 x 1 with Rounded Corners",
+      "qty": 11
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-yellow-panel-1-x-4-with-rounded-corners-30413-43337-1750405.jpg",
+      "pieceTitle": "Panel 1 x 4 with Rounded Corners",
+      "qty": 12
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-blue-tile-2-x-3-with-horizontal-clips-with-solar-panels-thick-open-o-clips-30350-69038-934861.jpg",
+      "pieceTitle": "Tile 2 x 3 with Horizontal Clips with Solar Panels",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-panel-1-x-4-x-3-with-emt-star-of-life-with-side-supports-hollow-studs-35323-105296-1673359.jpg",
+      "pieceTitle": "Panel 1 x 4 x 3 with EMT Star of Life with Side Supports, Hollow Studs",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-panel-1-x-2-x-3-with-side-supports-hollow-studs-35340-87544-1656225.jpg",
+      "pieceTitle": "Panel 1 x 2 x 3 with Side Supports - Hollow Studs",
+      "qty": 8
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-green-panel-1-x-6-x-3-with-side-studs-98280-1653751.jpg",
+      "pieceTitle": "Panel 1 x 6 x 3 with Side Studs",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-brown-black-panel-1-x-2-x-2-with-side-supports-hollow-studs-35378-87552-1685645.jpg",
+      "pieceTitle": "Panel 1 x 2 x 2 with Side Supports, Hollow Studs",
+      "qty": 10
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-panel-1-x-4-x-2-14718-1559573.jpg",
+      "pieceTitle": "Panel 1 x 4 x 2",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-panel-1-x-6-x-6-with-window-cutout-15627-1565337.jpg",
+      "pieceTitle": "Panel 1 x 6 x 6 with Window Cutout",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-panel-2-x-4-x-6-rock-33458-54782-1665345.jpg",
+      "pieceTitle": "Panel 2 x 4 x 6 Rock",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-panel-1-x-2-x-2-corner-with-rounded-corners-31959-91501-1654421.jpg",
+      "pieceTitle": "Panel 1 x 2 x 2 Corner with Rounded Corners",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-tile-1-x-2-with-control-panel-with-yellow-screen-with-groove-3069-73779-1678393.jpg",
+      "pieceTitle": "Tile 1 x 2 with Control Panel with Yellow Screen with Groove",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-red-panel-1-x-1-corner-with-rounded-corners-6231-1607823.jpg",
+      "pieceTitle": "Panel 1 x 1 Corner with Rounded Corners",
+      "qty": 2
+    }
+  ],
+  "Wheel": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-wheel-rim-14-6-x-9-9-11208-1557721.jpg",
+      "pieceTitle": "Wheel Rim Ø14.6 x 9.9",
+      "qty": 20
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-wheel-rim-11-5-x-12-wide-with-notched-hole-6014-1655115.jpg",
+      "pieceTitle": "Wheel Rim Ø11.5 x 12 Wide with Notched Hole",
+      "qty": 14
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-flat-silver-wheel-rim-14-6-x-9-9-11208-920285.jpg",
+      "pieceTitle": "Flat Silver Wheel Rim Ø14.6 x 9.9",
+      "qty": 16
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-wheel-rim-11-x-6-with-8-spokes-93593-1604067.jpg",
+      "pieceTitle": "Wheel Rim Ø11 x 6 with 8 Spokes",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-wheels-for-trolley-skateboard-2496-88423-1758983.jpg",
+      "pieceTitle": "Wheels for Trolley / Skateboard",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-wheel-rim-8-1-x-9mm-notched-hole-reinforced-back-74967-1616979.jpg",
+      "pieceTitle": "Wheel Rim Ø8.1 x 9mm",
+      "qty": 8
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-wheel-rim-18-x-12-with-brake-vents-66727-1003741.jpg",
+      "pieceTitle": "Wheel Rim Ø18 x 12 with Brake Vents",
+      "qty": 9
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-wheel-rim-11-2-x-8-with-centre-groove-42610-1688513.jpg",
+      "pieceTitle": "Wheel Rim Ø11.2 x 8 with Centre Groove",
+      "qty": 4
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-wheel-rim-18-x-7-with-deep-spokes-and-brake-rotor-13971-77031-920543.jpg",
+      "pieceTitle": "Wheel Rim Ø18 x 7  with Deep Spokes and Brake Rotor",
+      "qty": 4
+    }
+  ],
+  "Glass": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-light-blue-glass-for-window-1-x-4-x-6-35295-60803-1651147.jpg",
+      "pieceTitle": "Glass for Window 1 x 4 x 6",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-light-blue-glass-for-window-1-x-4-x-3-opening-with-mountains-and-car-36107-60603-775763.jpg",
+      "pieceTitle": "Glass for Window 1 x 4 x 3 Opening with Mountains and car",
+      "qty": 1
+    }
+  ],
+  "Handle": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-plate-1-x-2-with-handle-open-ends-2540-1566139.jpg",
+      "pieceTitle": "Plate 1 x 2 with Handle",
+      "qty": 9
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-azure-tile-1-x-2-with-handle-2432-1675033.jpg",
+      "pieceTitle": "Tile 1 x 2 with Handle",
+      "qty": 10
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-handlebars-large-98397-913731.jpg",
+      "pieceTitle": "Handlebars",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-plate-1-x-1-round-with-handle-26047-1704053.jpg",
+      "pieceTitle": "Plate 1 x 1 Round with Handle",
+      "qty": 6
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-blue-spoiler-with-handle-98834-1540025.jpg",
+      "pieceTitle": "Spoiler with Handle",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-azure-hairbrush-with-short-handle-10mm-3852-1686615.jpg",
+      "pieceTitle": "Hairbrush with Short Handle",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-light-blue-windscreen-4-x-4-x-4-3-with-handle-11289-63791-1611337.jpg",
+      "pieceTitle": "Windscreen 4 x 4 x 4.3 with Handle",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-handle-66909-1602449.jpg",
+      "pieceTitle": "Handle",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-cylinder-1-x-5-5-with-handle-31509-87617-1654259.jpg",
+      "pieceTitle": "Cylinder 1 x 5.5 with Handle",
+      "qty": 2
+    }
+  ],
+  "Vehicle Base": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-vehicle-base-6-x-10-65202-1699663.jpg",
+      "pieceTitle": "Vehicle Base 6 x 10",
+      "qty": 3
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-turquoise-vehicle-base-8-x-16-x-2-5-with-dark-stone-gray-wheel-holders-with-5-holes-65094-1725801.jpg",
+      "pieceTitle": "Dark Turquoise Vehicle Base 8 x 16 x 2.5 with Wheel Holders with 5 Holes",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-vehicle-base-8-x-16-x-2-5-with-dark-stone-gray-wheel-holders-with-3-holes-18937-1618195.jpg",
+      "pieceTitle": "Medium Stone Gray Vehicle Base 8 x 16 x 2.5 with Wheel Holders with 3 Holes",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-vehicle-base-8-x-16-x-2-5-with-dark-stone-gray-wheel-holders-with-5-holes-65094-1720085.jpg",
+      "pieceTitle": "Medium Stone Gray Vehicle Base 8 x 16 x 2.5 with Wheel Holders with 5 Holes",
+      "qty": 1
+    }
+  ],
+  "Seat": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-seat-2-x-2-with-sprue-mark-4079-1595197.jpg",
+      "pieceTitle": "Seat 2 x 2 with Sprue Mark",
+      "qty": 5
+    }
+  ],
+  "Half Pin": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-half-pin-with-friction-ridges-89678-1721741.jpg",
+      "pieceTitle": "Half Pin with Friction Ridges",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-half-pin-with-stud-4274-1789997.jpg",
+      "pieceTitle": "Half Pin with Stud",
+      "qty": 9
+    }
+  ],
+  "Propeller": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-propeller-3-blade-4-diameter-2421-28969-1568023.jpg",
+      "pieceTitle": "Propeller 3 Blade 4 Diameter",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-propeller-4-blade-5-diameter-with-open-connector-2479-1561171.jpg",
+      "pieceTitle": "Propeller 4 Blade 5 Diameter with Open Connector",
+      "qty": 1
+    }
+  ],
+  "Dustbin": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-dustbin-with-4-lid-holders-28967-92926-1661877.jpg",
+      "pieceTitle": "Dustbin with 4 Lid Holders",
+      "qty": 4
+    }
+  ],
+  "Telescope": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-pearl-gold-telescope-64644-1649781.jpg",
+      "pieceTitle": "Telescope",
+      "qty": 2
+    }
+  ],
+  "Mug": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-pink-mug-3899-28655-1592315.jpg",
+      "pieceTitle": "Mug",
+      "qty": 3
+    }
+  ],
+  "Window": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-window-frame-1-x-4-x-3-60594-1761283.jpg",
+      "pieceTitle": "Window Frame 1 x 4 x 3",
+      "qty": 5
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-white-arch-1-x-2-window-joiner-38583-1714657.jpg",
+      "pieceTitle": "Arch 1 x 2 Window Joiner",
+      "qty": 1
+    }
+  ],
+  "Chain": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-chain-with-21-links-30104-60169-1804305.jpg",
+      "pieceTitle": "Chain with 21 Links",
+      "qty": 1
+    }
+  ],
+  "Container": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-container-2-x-2-x-2-with-recessed-studs-4345-30060-1600935.jpg",
+      "pieceTitle": "Container 2 x 2 x 2 with Recessed Studs",
+      "qty": 1
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-container-box-2-x-2-x-2-door-with-slot-4346-30059-1671819.jpg",
+      "pieceTitle": "Container Box 2 x 2 x 2 Door with Slot",
+      "qty": 1
+    }
+  ],
+  "Hook": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-dark-stone-gray-hook-1-x-3-with-towball-30395-66904-1620449.jpg",
+      "pieceTitle": "Hook 1 x 3 with Towball",
+      "qty": 2
+    },
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-yellow-plate-1-x-2-with-hook-5mm-horizontal-arm-43876-88072-1653621.jpg",
+      "pieceTitle": "Plate 1 x 2 with Hook",
+      "qty": 1
+    }
+  ],
+  "Roll Cage": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-roll-cage-4-x-6-x-3-31498-64450-1648535.jpg",
+      "pieceTitle": "Roll Cage 4 x 6 x 3",
+      "qty": 1
+    }
+  ],
+  "Hammer": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-black-hammer-small-4522-1600235.jpg",
+      "pieceTitle": "Hammer",
+      "qty": 1
+    }
+  ],
+  "Trophy": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-pearl-gold-trophy-small-10172-31922-912623.jpg",
+      "pieceTitle": "Trophy",
+      "qty": 1
+    }
+  ],
+  "Cross Block": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-medium-stone-gray-cross-block-bent-90-degrees-with-three-pinholes-44809-1640129.jpg",
+      "pieceTitle": "Cross Block Bent 90 Degrees with Three Pinholes",
+      "qty": 1
+    }
+  ],
+  "Rock": [
+    {
+      "img": "https://img.brickowl.com/files/image_cache/medium/lego-transparent-purple-opal-rock-1-x-1-with-5-points-28623-30385-1775009.jpg",
+      "pieceTitle": "Opal Rock 1 x 1 with 5 Points",
+      "qty": 2
+    }
+  ]
+}

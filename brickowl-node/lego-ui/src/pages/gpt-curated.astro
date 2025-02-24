@@ -1,0 +1,97 @@
+---
+import { finalSelectionLegoPiecesAdjusted } from "../data/final_selection_lego_pieces_adjusted";
+import Layout from "../layouts/Layout.astro";
+
+interface LegoPiece {
+    pieceTitle: string;
+    qty: number;
+}
+
+// Calculate total pieces
+let totalPieces = 0;
+finalSelectionLegoPiecesAdjusted.forEach((piece) => {
+    totalPieces += piece.qty;
+});
+
+// Group duplicate pieces and sum their quantities
+// const consolidatedPieces = finalSelectionLegoPieces.reduce((acc, piece) => {
+//     const existingPiece = acc.find((p) => p.pieceTitle === piece.pieceTitle);
+//     if (existingPiece) {
+//         existingPiece.qty += piece.qty;
+//     } else {
+//         acc.push({ ...piece });
+//     }
+//     return acc;
+// }, [] as LegoPiece[]);
+
+// Sort pieces by quantity in descending order
+const sortedPieces = finalSelectionLegoPiecesAdjusted.sort(
+    (a, b) => b.qty - a.qty,
+);
+---
+
+<Layout title="LEGO Pieces Collection">
+    <main class="container mx-auto px-4 py-8">
+        <!-- Header Section -->
+        <div class="bg-white rounded-lg shadow-md p-6 mb-8">
+            <h1 class="text-3xl font-bold mb-4">LEGO Pieces Collection</h1>
+            <div class="bg-blue-50 p-4 rounded-lg inline-block">
+                <h2 class="text-lg font-semibold text-blue-800">
+                    Total Pieces
+                </h2>
+                <p class="text-2xl font-bold text-blue-900">{totalPieces}</p>
+            </div>
+        </div>
+
+        <!-- Pieces Table -->
+        <div class="bg-white rounded-lg shadow-md p-6">
+            <div class="overflow-x-auto">
+                <table class="min-w-full table-auto">
+                    <thead>
+                        <tr class="bg-gray-50">
+                            <th class="px-4 py-2 text-left">Piece</th>
+                            <th class="px-4 py-2 text-center">Quantity</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {
+                            sortedPieces.map((piece, index) => (
+                                <tr
+                                    class={
+                                        index % 2 === 0
+                                            ? "bg-white"
+                                            : "bg-gray-50"
+                                    }
+                                >
+                                    <td class="px-4 py-2 font-medium">
+                                        {piece.pieceTitle}
+                                    </td>
+                                    <td class="px-4 py-2 text-center">
+                                        {piece.qty}
+                                    </td>
+                                </tr>
+                            ))
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </main>
+</Layout>
+
+<style>
+    .container {
+        max-width: 1200px;
+    }
+    table {
+        border-collapse: separate;
+        border-spacing: 0;
+    }
+    th,
+    td {
+        border-bottom: 1px solid #e2e8f0;
+    }
+    th {
+        font-weight: 600;
+    }
+</style>

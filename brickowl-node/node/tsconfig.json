@@ -1,0 +1,34 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist",
+        "baseUrl": "./",
+        "jsx": "react",
+        "lib": [
+            "es6",
+            "dom",
+            "dom.iterable"
+        ],
+        "moduleResolution": "node",
+        "types": [
+            "./environment.d.ts",
+            "@types/node"
+        ],
+        "resolveJsonModule": true,
+        "allowJs": true,
+        "checkJs": false,
+        // "declaration": true,
+        // "noEmit": true,
+        "isolatedModules": true,
+        "allowSyntheticDefaultImports": true,
+        "forceConsistentCasingInFileNames": true,
+        "skipLibCheck": true,
+        "noErrorTruncation": true,
+        "strict": true,
+        "esModuleInterop": true,
+        "target": "ES2015",
+        "module": "ES2020",
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}
